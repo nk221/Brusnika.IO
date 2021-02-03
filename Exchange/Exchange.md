@@ -1,5 +1,5 @@
 # Описание формата обмена
-Версия 0.1
+Версия 0.2
 
 ## ProductGroups
 Группа товаров
@@ -56,6 +56,7 @@ SortOrder|Int32|Сортировка
 Id *|String(40)|Код
 PropertyGroupId *|String(40)|Код группы свойств
 Name *|String(1024)|Наименование
+ValueType|ValueTypes|Тип данных
 SortOrder|Int32|Сортировка
 PropertyOptions|string []|Варианты значений для типа List
 
