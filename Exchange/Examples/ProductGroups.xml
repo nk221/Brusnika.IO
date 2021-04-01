@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfProductGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductGroup>
+    <Id>1</Id>
+    <Name>Кондитерские изделия</Name>
+    <ImageUrl>/images/group1.jpg</ImageUrl>
+    <SortOrder>0</SortOrder>
+    <IsDisabled>false</IsDisabled>
+  </ProductGroup>
+  <ProductGroup>
+    <Id>2</Id>
+    <Name>Кофеты</Name>
+    <ParentGroupId>1</ParentGroupId>
+    <ImageUrl>/images/group2.jpg</ImageUrl>
+    <SortOrder>1</SortOrder>
+    <IsDisabled>false</IsDisabled>
+  </ProductGroup>
+  <ProductGroup>
+    <Id>3</Id>
+    <Name>Напитки</Name>
+    <ImageUrl>/images/group3.jpg</ImageUrl>
+    <SortOrder>0</SortOrder>
+    <IsDisabled>true</IsDisabled>
+  </ProductGroup>
+</ArrayOfProductGroup>

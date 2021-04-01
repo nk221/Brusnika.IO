@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>1</Id>
+    <Name>Товар 1</Name>
+    <MinimumOrderQuantity>0</MinimumOrderQuantity>
+    <OrderQuantityMultiplier>0</OrderQuantityMultiplier>
+    <IsDisabled>false</IsDisabled>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Товар 2</Name>
+    <MinimumOrderQuantity>0</MinimumOrderQuantity>
+    <OrderQuantityMultiplier>0</OrderQuantityMultiplier>
+    <IsDisabled>false</IsDisabled>
+  </Product>
+</ArrayOfProduct>

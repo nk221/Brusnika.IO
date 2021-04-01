@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPriceData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PriceData>
+    <StoreId>1</StoreId>
+    <ProductId>1</ProductId>
+    <Price>10.10</Price>
+  </PriceData>
+  <PriceData>
+    <StoreId>2</StoreId>
+    <ProductId>1</ProductId>
+    <Price>12.12</Price>
+  </PriceData>
+  <PriceData>
+    <StoreId>1</StoreId>
+    <ProductId>2</ProductId>
+    <Price>15.15</Price>
+  </PriceData>
+</ArrayOfPriceData>

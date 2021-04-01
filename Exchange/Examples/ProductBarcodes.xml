@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfBarcode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barcode>
+    <ProductId>1</ProductId>
+    <Code>1234567890123</Code>
+  </Barcode>
+  <Barcode>
+    <ProductId>2</ProductId>
+    <Code>0123123456789</Code>
+  </Barcode>
+</ArrayOfBarcode>

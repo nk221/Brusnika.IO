@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfPropertyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PropertyType>
+    <Id>1</Id>
+    <PropertyGroupId>2</PropertyGroupId>
+    <Name>Белки</Name>
+    <ValueType>Decimal</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>2</Id>
+    <PropertyGroupId>2</PropertyGroupId>
+    <Name>Жиры</Name>
+    <ValueType>Decimal</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>3</Id>
+    <PropertyGroupId>3</PropertyGroupId>
+    <Name>кКал</Name>
+    <ValueType>Decimal</ValueType>
+    <SortOrder>1</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>4</Id>
+    <PropertyGroupId>4</PropertyGroupId>
+    <Name>Цвет</Name>
+    <ValueType>List</ValueType>
+    <SortOrder>1</SortOrder>
+  </PropertyType>
+</ArrayOfPropertyType>

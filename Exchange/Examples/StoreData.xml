@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfStoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StoreData>
+    <StoreId>1</StoreId>
+    <ProductId>1</ProductId>
+    <AvailableQuantity>20.3</AvailableQuantity>
+  </StoreData>
+  <StoreData>
+    <StoreId>2</StoreId>
+    <ProductId>1</ProductId>
+    <AvailableQuantity>11</AvailableQuantity>
+  </StoreData>
+  <StoreData>
+    <StoreId>1</StoreId>
+    <ProductId>2</ProductId>
+    <AvailableQuantity>15</AvailableQuantity>
+  </StoreData>
+</ArrayOfStoreData>

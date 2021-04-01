@@ -1,38 +1,6 @@
 # Описание формата обмена
 Версия 0.3
 
-## Stores
-Магазин
-Поле|Тип|Описание
-----|---|---------
-Id *|String(40)|Код
-Name *|String(256)|Наименование
-
-## ProductGroups
-Группа товаров
-Поле|Тип|Описание
-----|---|---------
-Id *|String(40)|Код
-Name *|String(64)|Наименование
-ParentGroupId|String(40)|Код родителя
-ImageUrl|String(1024)|Картинка
-SortOrder|Int32|Сортировка
-Products|Product []|Членство товаров в группе
-IsDisabled *|Boolean|Отключена
-
-## ProductCategories
-Категория товаров
-Поле|Тип|Описание
-----|---|---------
-Id *|String(40)|Код
-Name *|String(64)|Наименование
-ImageUrl|String(1024)|Картинка
-SortOrder|Int32|Сортировка
-Products|Product []|Членство товаров в категории
-CustomerProducts|Product []|Служебное, для персонализированного членства товаров в категории
-CustomerProductCategoryMembership|CustomerProductCategoryMembership []|Персонализированная принадлежность товара категориям
-IsDisabled *|Boolean|Отключена
-
 ## Products
 Товар
 Поле|Тип|Описание
@@ -43,23 +11,27 @@ MinimumOrderQuantity *|Decimal|Минимальная партия
 OrderQuantityMultiplier *|Decimal|Множитель заказанного количества
 Unit *|String(64)|Единица измерения
 ImageUrl|String(1024)|Картинка для списка товаров
-Images|ProductImage []|Картинки
 IsDisabled *|Boolean|Отключен
-Barcodes|Barcode []|Штрих-коды
 
-## ProductGroupMemberships
-Членство товара в группах
+## ProductBarcodes
 Поле|Тип|Описание
 ----|---|---------
 ProductId *|String(40)|Код товара
-ProductGroupId *|String(40)|Код группы
+Code *|String(20)|Штрих-код
 
-## ProductCategoryMemberships
-Членство товара в категориях
+## ProductImages
 Поле|Тип|Описание
 ----|---|---------
 ProductId *|String(40)|Код товара
-ProductCategoryId *|String(40)|Код категории
+SortOrder|Int32|Сортировка
+Url|String(1024)|Картинка
+
+## Stores
+Магазин
+Поле|Тип|Описание
+----|---|---------
+Id *|String(40)|Код
+Name *|String(256)|Наименование
 
 ## StoreData
 Данные об остатках товара по складу
@@ -77,6 +49,41 @@ StoreId *|String(40)|Код склада
 ProductId *|String(40)|Код товара
 Price *|Decimal|Цена
 
+## ProductCategories
+Категория товаров
+Поле|Тип|Описание
+----|---|---------
+Id *|String(40)|Код
+Name *|String(64)|Наименование
+ImageUrl|String(1024)|Картинка
+SortOrder|Int32|Сортировка
+IsDisabled *|Boolean|Отключена
+
+## ProductCategoryMemberships
+Принадлежность товара к категории
+Поле|Тип|Описание
+----|---|---------
+ProductId *|String(40)|Код товара
+ProductCategoryId *|String(40)|Код категории
+
+## ProductGroups
+Группа товаров
+Поле|Тип|Описание
+----|---|---------
+Id *|String(40)|Код
+Name *|String(64)|Наименование
+ParentGroupId|String(40)|Код родителя
+ImageUrl|String(1024)|Картинка
+SortOrder|Int32|Сортировка
+IsDisabled *|Boolean|Отключена
+
+## ProductGroupMemberships
+Принадлежность товара к группе
+Поле|Тип|Описание
+----|---|---------
+ProductId *|String(40)|Код товара
+ProductGroupId *|String(40)|Код группы
+
 ## PropertyGroups
 Группа свойств сущностей
 Поле|Тип|Описание
@@ -85,7 +92,6 @@ Id *|String(40)|Код
 Name *|String(128)|Наименование
 SortOrder|Int32|Сортировка
 ParentPropertyGroupId|String(40)|Код родителя
-ChildPropertyGroups|PropertyGroup []|Членство товаров в группе
 PropertyViewType|PropertyViewTypes|То, как отображаются свойства этой группы
 
 ## PropertyTypes
@@ -97,7 +103,6 @@ PropertyGroupId *|String(40)|Код группы свойств
 Name *|String(1024)|Наименование
 ValueType|ValueTypes|Тип данных
 SortOrder|Int32|Сортировка
-PropertyOptions|PropertyOptions []|Варианты значений для типа List
 
 ## PropertyOptions
 Варианты значений свойства, если тип свойства List
@@ -115,5 +120,34 @@ SortOrder|Int32|Порядок
 ProductId *|String(40)|Код товара
 PropertyTypeId *|String(40)|Код типа свойства
 Value|String|Значение
+
+## DeliveryTypes
+Поле|Тип|Описание
+----|---|---------
+Id *|Int32|Код
+Name *|String(1024)|Наименование
+IsDeliveryToCustomer *|Boolean|Доставка на адрес покупателя
+
+## OrderStatuses
+Статус заказа
+Поле|Тип|Описание
+----|---|---------
+Id *|Int32|Код
+Name *|String(1024)|Наименование
+
+## PaymentTypes
+Тип оплаты
+Поле|Тип|Описание
+----|---|---------
+Id *|Int32|Код
+Name *|String(1024)|Наименование
+
+## StockOptions
+Варианты отбора товаров
+Поле|Тип|Описание
+----|---|---------
+Id *|Int32|Код
+Name *|String(1024)|Наименование
+Comment|String(5120)|Комментарий
 
 (*) - обязательное поле

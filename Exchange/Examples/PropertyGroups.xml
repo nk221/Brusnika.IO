@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfPropertyGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PropertyGroup>
+    <Id>1</Id>
+    <Name>Характеристики</Name>
+    <SortOrder>0</SortOrder>
+    <PropertyViewType>List</PropertyViewType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Id>2</Id>
+    <Name>Пищевая ценность</Name>
+    <SortOrder>0</SortOrder>
+    <ParentPropertyGroupId>1</ParentPropertyGroupId>
+    <PropertyViewType>Boxes</PropertyViewType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Id>3</Id>
+    <Name>Энергетическая ценность</Name>
+    <SortOrder>1</SortOrder>
+    <ParentPropertyGroupId>1</ParentPropertyGroupId>
+    <PropertyViewType>Boxes</PropertyViewType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Id>4</Id>
+    <Name>Общие</Name>
+    <SortOrder>3</SortOrder>
+    <ParentPropertyGroupId>1</ParentPropertyGroupId>
+    <PropertyViewType>List</PropertyViewType>
+  </PropertyGroup>
+</ArrayOfPropertyGroup>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfDeliveryType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeliveryType>
+    <Id>1</Id>
+    <Name>Доставка</Name>
+    <IsDeliveryToCustomer>false</IsDeliveryToCustomer>
+  </DeliveryType>
+  <DeliveryType>
+    <Id>2</Id>
+    <Name>Самовывоз</Name>
+    <IsDeliveryToCustomer>false</IsDeliveryToCustomer>
+  </DeliveryType>
+</ArrayOfDeliveryType>

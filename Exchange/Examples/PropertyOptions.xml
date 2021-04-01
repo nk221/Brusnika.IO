@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPropertyOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PropertyOptions>
+    <PropertyTypeId>4</PropertyTypeId>
+    <Id>1</Id>
+    <Value>Красный</Value>
+    <SortOrder>0</SortOrder>
+  </PropertyOptions>
+  <PropertyOptions>
+    <PropertyTypeId>4</PropertyTypeId>
+    <Id>2</Id>
+    <Value>Белый</Value>
+    <SortOrder>0</SortOrder>
+  </PropertyOptions>
+  <PropertyOptions>
+    <PropertyTypeId>4</PropertyTypeId>
+    <Id>3</Id>
+    <Value>Синий</Value>
+    <SortOrder>0</SortOrder>
+  </PropertyOptions>
+</ArrayOfPropertyOptions>

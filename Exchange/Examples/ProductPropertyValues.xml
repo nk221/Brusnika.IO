@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfProductPropertyValue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductPropertyValue>
+    <ProductId>1</ProductId>
+    <PropertyTypeId>1</PropertyTypeId>
+    <Value>25.4</Value>
+  </ProductPropertyValue>
+  <ProductPropertyValue>
+    <ProductId>1</ProductId>
+    <PropertyTypeId>2</PropertyTypeId>
+    <Value>40.2</Value>
+  </ProductPropertyValue>
+  <ProductPropertyValue>
+    <ProductId>1</ProductId>
+    <PropertyTypeId>4</PropertyTypeId>
+    <Value>Синий</Value>
+  </ProductPropertyValue>
+</ArrayOfProductPropertyValue>

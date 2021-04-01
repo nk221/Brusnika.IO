@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfProductGroupMembership xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductGroupMembership>
+    <ProductId>1</ProductId>
+    <ProductGroupId>1</ProductGroupId>
+  </ProductGroupMembership>
+  <ProductGroupMembership>
+    <ProductId>2</ProductId>
+    <ProductGroupId>2</ProductGroupId>
+  </ProductGroupMembership>
+</ArrayOfProductGroupMembership>
