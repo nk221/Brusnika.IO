@@ -92,7 +92,7 @@ Id *|String(40)|Код
 Name *|String(128)|Наименование
 SortOrder|Int32|Сортировка
 ParentPropertyGroupId|String(40)|Код родителя
-PropertyViewType|PropertyViewTypes|То, как отображаются свойства этой группы
+PropertyViewType|PropertyViewTypes|То, как отображаются свойства этой группы. [List,Boxes,Text]
 
 ## PropertyTypes
 Тип свойств сущностей
@@ -101,7 +101,7 @@ PropertyViewType|PropertyViewTypes|То, как отображаются сво�
 Id *|String(40)|Код
 PropertyGroupId *|String(40)|Код группы свойств
 Name *|String(1024)|Наименование
-ValueType|ValueTypes|Тип данных
+ValueType|ValueTypes|Тип данных. [Integer,Decimal,String,Date,List]
 SortOrder|Int32|Сортировка
 
 ## PropertyOptions
