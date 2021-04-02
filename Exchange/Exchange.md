@@ -1,5 +1,5 @@
 # Описание формата обмена
-Версия 0.3
+Версия 0.4
 
 ## Products
 Товар
@@ -39,6 +39,7 @@ Name *|String(256)|Наименование
 ----|---|---------
 StoreId *|String(40)|Код склада
 ProductId *|String(40)|Код товара
+StockOptionId *|Int32|Код варианта отбора товаров
 AvailableQuantity *|Decimal|Количество на складе
 
 ## PriceData

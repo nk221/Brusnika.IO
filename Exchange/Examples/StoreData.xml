@@ -3,16 +3,19 @@
   <StoreData>
     <StoreId>1</StoreId>
     <ProductId>1</ProductId>
+    <StockOptionId>1</StockOptionId>
     <AvailableQuantity>20.3</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>2</StoreId>
     <ProductId>1</ProductId>
+    <StockOptionId>1</StockOptionId>
     <AvailableQuantity>11</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>1</StoreId>
     <ProductId>2</ProductId>
+    <StockOptionId>2</StockOptionId>
     <AvailableQuantity>15</AvailableQuantity>
   </StoreData>
 </ArrayOfStoreData>

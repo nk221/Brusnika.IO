@@ -10,7 +10,7 @@
 На странице "Каталог" видны следующие данные:
 - Параметры заказа - данные из **StockOptions**
 - Получение - **DeliveryTypes**
-- В зависимости от значения **DeliveryTypes.IsDeliveryToCustomer** видно Магазин ( **Stores**) или адрес покупателя
+- В зависимости от значения **DeliveryTypes.IsDeliveryToCustomer** видно Магазин (**Stores**) или адрес покупателя
 - Список групп товаров - данные из **ProductCategories** и **ProductGroups**, в которых нет родителя, отсортированные по **SortOrder**
 
 ## Список товаров
@@ -45,5 +45,4 @@
 
 - Получение - **DeliveryTypes**
 - В зависимости от значения **DeliveryTypes.IsDeliveryToCustomer** видно Магазин ( **Stores**) или адрес покупателя
-- Магазин - **Stores** или адрес покупателя
 - Тип оплаты - **PaymentTypes**
