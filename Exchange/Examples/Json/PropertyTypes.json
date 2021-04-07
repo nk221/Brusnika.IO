@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "1",
+    "PropertyGroupId": "2",
+    "Name": "Белки",
+    "ValueType": 1,
+    "SortOrder": 0
+  },
+  {
+    "Id": "2",
+    "PropertyGroupId": "2",
+    "Name": "Жиры",
+    "ValueType": 1,
+    "SortOrder": 0
+  },
+  {
+    "Id": "3",
+    "PropertyGroupId": "3",
+    "Name": "кКал",
+    "ValueType": 1,
+    "SortOrder": 1
+  },
+  {
+    "Id": "4",
+    "PropertyGroupId": "4",
+    "Name": "Цвет",
+    "ValueType": 4,
+    "SortOrder": 1
+  }
+]

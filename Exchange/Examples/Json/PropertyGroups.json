@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "1",
+    "Name": "Характеристики",
+    "SortOrder": 0,
+    "PropertyViewType": 0
+  },
+  {
+    "Id": "2",
+    "Name": "Пищевая ценность",
+    "SortOrder": 0,
+    "ParentPropertyGroupId": "1",
+    "PropertyViewType": 1
+  },
+  {
+    "Id": "3",
+    "Name": "Энергетическая ценность",
+    "SortOrder": 1,
+    "ParentPropertyGroupId": "1",
+    "PropertyViewType": 1
+  },
+  {
+    "Id": "4",
+    "Name": "Общие",
+    "SortOrder": 3,
+    "ParentPropertyGroupId": "1",
+    "PropertyViewType": 0
+  }
+]

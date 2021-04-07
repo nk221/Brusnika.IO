@@ -1,0 +1,20 @@
+[
+  {
+    "StoreId": "1",
+    "ProductId": "1",
+    "StockOptionId": 1,
+    "AvailableQuantity": 20.3
+  },
+  {
+    "StoreId": "2",
+    "ProductId": "1",
+    "StockOptionId": 1,
+    "AvailableQuantity": 11
+  },
+  {
+    "StoreId": "1",
+    "ProductId": "2",
+    "StockOptionId": 2,
+    "AvailableQuantity": 15
+  }
+]

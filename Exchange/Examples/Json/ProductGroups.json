@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "1",
+    "Name": "Кондитерские изделия",
+    "ImageUrl": "/images/group1.jpg",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "2",
+    "Name": "Кофеты",
+    "ParentGroupId": "1",
+    "ImageUrl": "/images/group2.jpg",
+    "SortOrder": 1,
+    "IsDisabled": false
+  },
+  {
+    "Id": "3",
+    "Name": "Напитки",
+    "ImageUrl": "/images/group3.jpg",
+    "SortOrder": 0,
+    "IsDisabled": true
+  }
+]

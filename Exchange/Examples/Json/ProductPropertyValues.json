@@ -1,0 +1,17 @@
+[
+  {
+    "ProductId": "1",
+    "PropertyTypeId": "1",
+    "Value": "25.4"
+  },
+  {
+    "ProductId": "1",
+    "PropertyTypeId": "2",
+    "Value": "40.2"
+  },
+  {
+    "ProductId": "1",
+    "PropertyTypeId": "4",
+    "Value": "Синий"
+  }
+]

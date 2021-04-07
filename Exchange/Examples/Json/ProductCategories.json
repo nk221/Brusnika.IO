@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "1",
+    "Name": "Новинки",
+    "ImageUrl": "/images/category1.jpg",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "2",
+    "Name": "Популярное",
+    "ImageUrl": "/images/category2.jpg",
+    "SortOrder": 1,
+    "IsDisabled": false
+  },
+  {
+    "Id": "3",
+    "Name": "Сезонные товары",
+    "ImageUrl": "/images/category3.jpg",
+    "SortOrder": 2,
+    "IsDisabled": true
+  }
+]
