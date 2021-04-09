@@ -1,31 +1,136 @@
 <?xml version="1.0"?>
 <ArrayOfPropertyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PropertyType>
-    <Id>1</Id>
-    <PropertyGroupId>2</PropertyGroupId>
+    <Id>1_1_1</Id>
+    <PropertyGroupId>1_1</PropertyGroupId>
     <Name>Белки</Name>
     <ValueType>Decimal</ValueType>
-    <SortOrder>0</SortOrder>
+    <SortOrder>1</SortOrder>
   </PropertyType>
   <PropertyType>
-    <Id>2</Id>
-    <PropertyGroupId>2</PropertyGroupId>
+    <Id>1_1_2</Id>
+    <PropertyGroupId>1_1</PropertyGroupId>
     <Name>Жиры</Name>
     <ValueType>Decimal</ValueType>
-    <SortOrder>0</SortOrder>
+    <SortOrder>2</SortOrder>
   </PropertyType>
   <PropertyType>
-    <Id>3</Id>
-    <PropertyGroupId>3</PropertyGroupId>
+    <Id>1_1_3</Id>
+    <PropertyGroupId>1_1</PropertyGroupId>
+    <Name>Углеводы</Name>
+    <ValueType>Decimal</ValueType>
+    <SortOrder>3</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>1_2_1</Id>
+    <PropertyGroupId>1_2</PropertyGroupId>
     <Name>кКал</Name>
     <ValueType>Decimal</ValueType>
     <SortOrder>1</SortOrder>
   </PropertyType>
   <PropertyType>
-    <Id>4</Id>
-    <PropertyGroupId>4</PropertyGroupId>
+    <Id>1_2_2</Id>
+    <PropertyGroupId>1_2</PropertyGroupId>
+    <Name>кДж</Name>
+    <ValueType>Decimal</ValueType>
+    <SortOrder>2</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>1_3_1</Id>
+    <PropertyGroupId>1_3</PropertyGroupId>
     <Name>Цвет</Name>
     <ValueType>List</ValueType>
-    <SortOrder>1</SortOrder>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>1_3_2</Id>
+    <PropertyGroupId>1_3</PropertyGroupId>
+    <Name>Материал</Name>
+    <ValueType>List</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>2_1</Id>
+    <PropertyGroupId>2</PropertyGroupId>
+    <Name>Состав товара</Name>
+    <ValueType>String</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>3_1</Id>
+    <PropertyGroupId>3</PropertyGroupId>
+    <Name />
+    <ValueType>String</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+</ArrayOfPropertyType>Order>1</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>1_2_2</Id>
+    <PropertyGroupId>1_2</PropertyGroupId>
+    <PropertyGroup>
+      <Id>1_2</Id>
+      <Name>Энергетическая ценность</Name>
+      <SortOrder>2</SortOrder>
+      <ParentPropertyGroupId>1</ParentPropertyGroupId>
+      <PropertyViewType>Boxes</PropertyViewType>
+    </PropertyGroup>
+    <Name>кДж</Name>
+    <ValueType>Decimal</ValueType>
+    <SortOrder>2</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>1_3_1</Id>
+    <PropertyGroupId>1_3</PropertyGroupId>
+    <PropertyGroup>
+      <Id>1_3</Id>
+      <Name>Общие</Name>
+      <SortOrder>3</SortOrder>
+      <ParentPropertyGroupId>1</ParentPropertyGroupId>
+      <PropertyViewType>List</PropertyViewType>
+    </PropertyGroup>
+    <Name>Цвет</Name>
+    <ValueType>List</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>1_3_2</Id>
+    <PropertyGroupId>1_3</PropertyGroupId>
+    <PropertyGroup>
+      <Id>1_3</Id>
+      <Name>Общие</Name>
+      <SortOrder>3</SortOrder>
+      <ParentPropertyGroupId>1</ParentPropertyGroupId>
+      <PropertyViewType>List</PropertyViewType>
+    </PropertyGroup>
+    <Name>Материал</Name>
+    <ValueType>List</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>2_1</Id>
+    <PropertyGroupId>2</PropertyGroupId>
+    <PropertyGroup>
+      <Id>2</Id>
+      <Name>Состав</Name>
+      <SortOrder>2</SortOrder>
+      <PropertyViewType>Text</PropertyViewType>
+    </PropertyGroup>
+    <Name>Состав товара</Name>
+    <ValueType>String</ValueType>
+    <SortOrder>0</SortOrder>
+  </PropertyType>
+  <PropertyType>
+    <Id>3_1</Id>
+    <PropertyGroupId>3</PropertyGroupId>
+    <PropertyGroup>
+      <Id>3</Id>
+      <Name>Описание</Name>
+      <SortOrder>3</SortOrder>
+      <PropertyViewType>Text</PropertyViewType>
+    </PropertyGroup>
+    <Name />
+    <ValueType>String</ValueType>
+    <SortOrder>0</SortOrder>
   </PropertyType>
 </ArrayOfPropertyType>

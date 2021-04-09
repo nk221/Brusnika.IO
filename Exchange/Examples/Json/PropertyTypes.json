@@ -1,30 +1,65 @@
 [
   {
-    "Id": "1",
-    "PropertyGroupId": "2",
+    "Id": "1_1_1",
+    "PropertyGroupId": "1_1",
     "Name": "Белки",
     "ValueType": 1,
-    "SortOrder": 0
+    "SortOrder": 1
   },
   {
-    "Id": "2",
-    "PropertyGroupId": "2",
+    "Id": "1_1_2",
+    "PropertyGroupId": "1_1",
     "Name": "Жиры",
     "ValueType": 1,
-    "SortOrder": 0
+    "SortOrder": 2
   },
   {
-    "Id": "3",
-    "PropertyGroupId": "3",
+    "Id": "1_1_3",
+    "PropertyGroupId": "1_1",
+    "Name": "Углеводы",
+    "ValueType": 1,
+    "SortOrder": 3
+  },
+  {
+    "Id": "1_2_1",
+    "PropertyGroupId": "1_2",
     "Name": "кКал",
     "ValueType": 1,
     "SortOrder": 1
   },
   {
-    "Id": "4",
-    "PropertyGroupId": "4",
+    "Id": "1_2_2",
+    "PropertyGroupId": "1_2",
+    "Name": "кДж",
+    "ValueType": 1,
+    "SortOrder": 2
+  },
+  {
+    "Id": "1_3_1",
+    "PropertyGroupId": "1_3",
     "Name": "Цвет",
     "ValueType": 4,
-    "SortOrder": 1
+    "SortOrder": 0
+  },
+  {
+    "Id": "1_3_2",
+    "PropertyGroupId": "1_3",
+    "Name": "Материал",
+    "ValueType": 4,
+    "SortOrder": 0
+  },
+  {
+    "Id": "2_1",
+    "PropertyGroupId": "2",
+    "Name": "Состав товара",
+    "ValueType": 2,
+    "SortOrder": 0
+  },
+  {
+    "Id": "3_1",
+    "PropertyGroupId": "3",
+    "Name": "",
+    "ValueType": 2,
+    "SortOrder": 0
   }
 ]

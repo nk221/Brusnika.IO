@@ -1,20 +1,38 @@
 [
   {
-    "PropertyTypeId": "4",
+    "PropertyTypeId": "1_3_1",
     "Id": "1",
     "Value": "Красный",
     "SortOrder": 0
   },
   {
-    "PropertyTypeId": "4",
+    "PropertyTypeId": "1_3_1",
     "Id": "2",
     "Value": "Белый",
     "SortOrder": 0
   },
   {
-    "PropertyTypeId": "4",
+    "PropertyTypeId": "1_3_1",
     "Id": "3",
     "Value": "Синий",
+    "SortOrder": 0
+  },
+  {
+    "PropertyTypeId": "1_3_2",
+    "Id": "1",
+    "Value": "Сталь",
+    "SortOrder": 0
+  },
+  {
+    "PropertyTypeId": "1_3_2",
+    "Id": "2",
+    "Value": "Пластик",
+    "SortOrder": 0
+  },
+  {
+    "PropertyTypeId": "1_3_2",
+    "Id": "3",
+    "Value": "Дерево",
     "SortOrder": 0
   }
 ]

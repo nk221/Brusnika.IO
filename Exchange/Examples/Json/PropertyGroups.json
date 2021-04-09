@@ -2,25 +2,37 @@
   {
     "Id": "1",
     "Name": "Характеристики",
-    "SortOrder": 0,
+    "SortOrder": 1,
     "PropertyViewType": 0
   },
   {
     "Id": "2",
-    "Name": "Пищевая ценность",
-    "SortOrder": 0,
-    "ParentPropertyGroupId": "1",
-    "PropertyViewType": 1
+    "Name": "Состав",
+    "SortOrder": 2,
+    "PropertyViewType": 2
   },
   {
     "Id": "3",
-    "Name": "Энергетическая ценность",
+    "Name": "Описание",
+    "SortOrder": 3,
+    "PropertyViewType": 2
+  },
+  {
+    "Id": "1_1",
+    "Name": "Пищевая ценность",
     "SortOrder": 1,
     "ParentPropertyGroupId": "1",
     "PropertyViewType": 1
   },
   {
-    "Id": "4",
+    "Id": "1_2",
+    "Name": "Энергетическая ценность",
+    "SortOrder": 2,
+    "ParentPropertyGroupId": "1",
+    "PropertyViewType": 1
+  },
+  {
+    "Id": "1_3",
     "Name": "Общие",
     "SortOrder": 3,
     "ParentPropertyGroupId": "1",

@@ -3,25 +3,37 @@
   <PropertyGroup>
     <Id>1</Id>
     <Name>Характеристики</Name>
-    <SortOrder>0</SortOrder>
+    <SortOrder>1</SortOrder>
     <PropertyViewType>List</PropertyViewType>
   </PropertyGroup>
   <PropertyGroup>
     <Id>2</Id>
-    <Name>Пищевая ценность</Name>
-    <SortOrder>0</SortOrder>
-    <ParentPropertyGroupId>1</ParentPropertyGroupId>
-    <PropertyViewType>Boxes</PropertyViewType>
+    <Name>Состав</Name>
+    <SortOrder>2</SortOrder>
+    <PropertyViewType>Text</PropertyViewType>
   </PropertyGroup>
   <PropertyGroup>
     <Id>3</Id>
-    <Name>Энергетическая ценность</Name>
+    <Name>Описание</Name>
+    <SortOrder>3</SortOrder>
+    <PropertyViewType>Text</PropertyViewType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Id>1_1</Id>
+    <Name>Пищевая ценность</Name>
     <SortOrder>1</SortOrder>
     <ParentPropertyGroupId>1</ParentPropertyGroupId>
     <PropertyViewType>Boxes</PropertyViewType>
   </PropertyGroup>
   <PropertyGroup>
-    <Id>4</Id>
+    <Id>1_2</Id>
+    <Name>Энергетическая ценность</Name>
+    <SortOrder>2</SortOrder>
+    <ParentPropertyGroupId>1</ParentPropertyGroupId>
+    <PropertyViewType>Boxes</PropertyViewType>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Id>1_3</Id>
     <Name>Общие</Name>
     <SortOrder>3</SortOrder>
     <ParentPropertyGroupId>1</ParentPropertyGroupId>

@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <ArrayOfOrderStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <OrderStatus>
-    <Id>1</Id>
-    <Name>Оформляется</Name>
-  </OrderStatus>
-  <OrderStatus>
-    <Id>2</Id>
-    <Name>Обрабатывается</Name>
-  </OrderStatus>
-  <OrderStatus>
-    <Id>3</Id>
-    <Name>Собирается</Name>
-  </OrderStatus>
-  <OrderStatus>
-    <Id>4</Id>
-    <Name>Готов к выдаче</Name>
-  </OrderStatus>
-  <OrderStatus>
-    <Id>5</Id>
-    <Name>Доставляется</Name>
+    <Id>7</Id>
+    <Name>Отменен</Name>
   </OrderStatus>
   <OrderStatus>
     <Id>6</Id>
     <Name>Завершен</Name>
   </OrderStatus>
   <OrderStatus>
-    <Id>7</Id>
-    <Name>Отменен</Name>
+    <Id>5</Id>
+    <Name>Доставляется</Name>
+  </OrderStatus>
+  <OrderStatus>
+    <Id>4</Id>
+    <Name>Готов к выдаче</Name>
+  </OrderStatus>
+  <OrderStatus>
+    <Id>3</Id>
+    <Name>Собирается</Name>
+  </OrderStatus>
+  <OrderStatus>
+    <Id>2</Id>
+    <Name>Обрабатывается</Name>
+  </OrderStatus>
+  <OrderStatus>
+    <Id>1</Id>
+    <Name>Оформляется</Name>
   </OrderStatus>
 </ArrayOfOrderStatus>

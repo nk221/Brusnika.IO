@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <ArrayOfStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Store>
-    <Id>1</Id>
-    <Name>Магазин 1</Name>
+    <Id>м2</Id>
+    <Name>Магазин №2</Name>
   </Store>
   <Store>
-    <Id>2</Id>
-    <Name>Магазин 2</Name>
+    <Id>м1</Id>
+    <Name>Магазин №1</Name>
   </Store>
 </ArrayOfStore>

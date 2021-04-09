@@ -1,12 +1,12 @@
 [
   {
-    "Id": 1,
-    "Name": "Доставка",
-    "IsDeliveryToCustomer": false
-  },
-  {
     "Id": 2,
     "Name": "Самовывоз",
     "IsDeliveryToCustomer": false
+  },
+  {
+    "Id": 1,
+    "Name": "Доставка",
+    "IsDeliveryToCustomer": true
   }
 ]

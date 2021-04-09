@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <ArrayOfProductCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProductCategory>
-    <Id>1</Id>
-    <Name>Новинки</Name>
-    <ImageUrl>/images/category1.jpg</ImageUrl>
-    <SortOrder>0</SortOrder>
+    <Id>2</Id>
+    <Name>Популярное</Name>
+    <ImageUrl>/static/images/thumbnails/group2.jpg</ImageUrl>
+    <SortOrder>2</SortOrder>
     <IsDisabled>false</IsDisabled>
   </ProductCategory>
   <ProductCategory>
-    <Id>2</Id>
-    <Name>Популярное</Name>
-    <ImageUrl>/images/category2.jpg</ImageUrl>
+    <Id>1</Id>
+    <Name>Новинки</Name>
+    <ImageUrl>/static/images/thumbnails/group1.jpg</ImageUrl>
     <SortOrder>1</SortOrder>
     <IsDisabled>false</IsDisabled>
   </ProductCategory>
   <ProductCategory>
-    <Id>3</Id>
-    <Name>Сезонные товары</Name>
-    <ImageUrl>/images/category3.jpg</ImageUrl>
-    <SortOrder>2</SortOrder>
-    <IsDisabled>true</IsDisabled>
+    <Id>#favorites</Id>
+    <Name>Избранное</Name>
+    <ImageUrl>/static/images/thumbnails/favorites.jpg</ImageUrl>
+    <SortOrder>0</SortOrder>
+    <IsDisabled>false</IsDisabled>
   </ProductCategory>
 </ArrayOfProductCategory>

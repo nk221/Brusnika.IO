@@ -1,24 +1,261 @@
 [
   {
-    "Id": "1",
-    "Name": "Кондитерские изделия",
-    "ImageUrl": "/images/group1.jpg",
+    "Id": "0305",
+    "Name": "Детское питание",
+    "ParentGroupId": "03",
     "SortOrder": 0,
     "IsDisabled": false
   },
   {
-    "Id": "2",
-    "Name": "Кофеты",
-    "ParentGroupId": "1",
-    "ImageUrl": "/images/group2.jpg",
-    "SortOrder": 1,
+    "Id": "0304",
+    "Name": "Дрессинги",
+    "ParentGroupId": "03",
+    "SortOrder": 0,
     "IsDisabled": false
   },
   {
-    "Id": "3",
-    "Name": "Напитки",
-    "ImageUrl": "/images/group3.jpg",
+    "Id": "0303",
+    "Name": "Консервация",
+    "ParentGroupId": "03",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0302",
+    "Name": "Бакалея",
+    "ParentGroupId": "03",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0301",
+    "Name": "Гастрономия",
+    "ParentGroupId": "03",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "03",
+    "Name": "Продовольственные товары",
+    "ImageUrl": "/static/images/thumbnails/group5.jpg",
+    "SortOrder": 4,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0201",
+    "Name": "Новый год 2021",
+    "ParentGroupId": "02",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "02",
+    "Name": "Сезонный ассортимент",
+    "ImageUrl": "/static/images/thumbnails/group4.jpg",
+    "SortOrder": 3,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0107",
+    "Name": "Гриль",
+    "ParentGroupId": "01",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0106",
+    "Name": "Горячие напитки",
+    "ParentGroupId": "01",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "010505",
+    "Name": "Пирожок",
+    "ParentGroupId": "0105",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "010504",
+    "Name": "Ватрушка",
+    "ParentGroupId": "0105",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "010503",
+    "Name": "Булочка",
+    "ParentGroupId": "0105",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "010502",
+    "Name": "Беляш",
+    "ParentGroupId": "0105",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "010501",
+    "Name": "Багет",
+    "ParentGroupId": "0105",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0105",
+    "Name": "Выпечка пекарни",
+    "ParentGroupId": "01",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0104",
+    "Name": "Готовая продукция",
+    "ParentGroupId": "01",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0103",
+    "Name": "Ингредиенты",
+    "ParentGroupId": "01",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0102",
+    "Name": "Выпечка из п/ф",
+    "ParentGroupId": "01",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0101",
+    "Name": "Полуфабрикаты",
+    "ParentGroupId": "01",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "01",
+    "Name": "Производство",
+    "ImageUrl": "/static/images/thumbnails/group3.jpg",
+    "SortOrder": 2,
+    "IsDisabled": false
+  },
+  {
+    "Id": "04",
+    "Name": "Табачные изделия",
+    "ImageUrl": "/static/images/thumbnails/group6.jpg",
+    "SortOrder": 5,
+    "IsDisabled": false
+  },
+  {
+    "Id": "05",
+    "Name": "Непродовольственные товары",
+    "ImageUrl": "/static/images/thumbnails/group7.jpg",
+    "SortOrder": 6,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0501",
+    "Name": "Корма для животных",
+    "ParentGroupId": "05",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0502",
+    "Name": "Товары для дома",
+    "ParentGroupId": "05",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0503",
+    "Name": "Чулочно-носочные изделия",
+    "ParentGroupId": "05",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0504",
+    "Name": "Гигиена",
+    "ParentGroupId": "05",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0505",
+    "Name": "Парфюмерия",
+    "ParentGroupId": "05",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "0506",
+    "Name": "Химия бытовая",
+    "ParentGroupId": "05",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "050601",
+    "Name": "Средства для стирки",
+    "ParentGroupId": "0506",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "050602",
+    "Name": "Средство для чистки ванны, туалета",
+    "ParentGroupId": "0506",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "050603",
+    "Name": "Освежители воздуха",
+    "ParentGroupId": "0506",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "050604",
+    "Name": "Средства для кухни",
+    "ParentGroupId": "0506",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "05060401",
+    "Name": "Средство для очистки кухонных поверхностей",
+    "ParentGroupId": "050604",
     "SortOrder": 0,
     "IsDisabled": true
+  },
+  {
+    "Id": "05060402",
+    "Name": "Средство для мытья посуды",
+    "ParentGroupId": "050604",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "050605",
+    "Name": "Средство для мытья полов",
+    "ParentGroupId": "0506",
+    "SortOrder": 0,
+    "IsDisabled": false
+  },
+  {
+    "Id": "050606",
+    "Name": "Средство для мебели и ковров",
+    "ParentGroupId": "0506",
+    "SortOrder": 0,
+    "IsDisabled": false
   }
 ]
