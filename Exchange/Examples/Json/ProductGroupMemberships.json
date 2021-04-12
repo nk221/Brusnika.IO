@@ -5,7 +5,7 @@
   },
   {
     "ProductId": "2",
-    "ProductGroupId": "0104"
+    "ProductGroupId": "0103"
   },
   {
     "ProductId": "1",
@@ -17,7 +17,7 @@
   },
   {
     "ProductId": "3",
-    "ProductGroupId": "0104"
+    "ProductGroupId": "0103"
   },
   {
     "ProductId": "3",
@@ -49,7 +49,7 @@
   },
   {
     "ProductId": "7",
-    "ProductGroupId": "0103"
+    "ProductGroupId": "0102"
   },
   {
     "ProductId": "7",
@@ -57,7 +57,7 @@
   },
   {
     "ProductId": "8",
-    "ProductGroupId": "0103"
+    "ProductGroupId": "0101"
   },
   {
     "ProductId": "8",
@@ -65,7 +65,7 @@
   },
   {
     "ProductId": "9",
-    "ProductGroupId": "0102"
+    "ProductGroupId": "0101"
   },
   {
     "ProductId": "9",
@@ -73,7 +73,7 @@
   },
   {
     "ProductId": "10",
-    "ProductGroupId": "0102"
+    "ProductGroupId": "0101"
   },
   {
     "ProductId": "10",
@@ -81,7 +81,7 @@
   },
   {
     "ProductId": "11",
-    "ProductGroupId": "0102"
+    "ProductGroupId": "0101"
   },
   {
     "ProductId": "11",
@@ -89,50 +89,10 @@
   },
   {
     "ProductId": "12",
-    "ProductGroupId": "0102"
+    "ProductGroupId": "0101"
   },
   {
     "ProductId": "12",
-    "ProductGroupId": "01"
-  },
-  {
-    "ProductId": "13",
-    "ProductGroupId": "0102"
-  },
-  {
-    "ProductId": "13",
-    "ProductGroupId": "01"
-  },
-  {
-    "ProductId": "14",
-    "ProductGroupId": "0101"
-  },
-  {
-    "ProductId": "14",
-    "ProductGroupId": "01"
-  },
-  {
-    "ProductId": "15",
-    "ProductGroupId": "0101"
-  },
-  {
-    "ProductId": "15",
-    "ProductGroupId": "01"
-  },
-  {
-    "ProductId": "16",
-    "ProductGroupId": "0101"
-  },
-  {
-    "ProductId": "16",
-    "ProductGroupId": "01"
-  },
-  {
-    "ProductId": "17",
-    "ProductGroupId": "0101"
-  },
-  {
-    "ProductId": "17",
     "ProductGroupId": "01"
   }
 ]

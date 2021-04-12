@@ -20,12 +20,4 @@
     <ProductId>12</ProductId>
     <ProductCategoryId>2</ProductCategoryId>
   </ProductCategoryMembership>
-  <ProductCategoryMembership>
-    <ProductId>15</ProductId>
-    <ProductCategoryId>1</ProductCategoryId>
-  </ProductCategoryMembership>
-  <ProductCategoryMembership>
-    <ProductId>16</ProductId>
-    <ProductCategoryId>2</ProductCategoryId>
-  </ProductCategoryMembership>
 </ArrayOfProductCategoryMembership>

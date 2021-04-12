@@ -1,0 +1,114 @@
+[
+  {
+    "Id": "7dae23ba-523d-447b-b357-4fab34ae72ec",
+    "DocumentNumber": 0,
+    "DocumentDate": "2021-04-12T10:26:01.2838804Z",
+    "Customer": {
+      "Id": "74d1c3ae-fc19-4729-ac5a-45321d2e3eac",
+      "Name": "John Smith",
+      "Email": "aa@aa.aa",
+      "Phone": "\u002B79000010011"
+    },
+    "StoreId": "м2",
+    "CustomerAddress": {
+      "Id": "b79eafb4-94f6-4cac-b53c-abca9a177942",
+      "PostCode": "620014",
+      "Country": "Россия",
+      "Region": "Свердловская область",
+      "District": "Режевской р-н",
+      "Locality": "Реж г",
+      "SubLocality": "",
+      "Street": "Ленина ул",
+      "Building": "1",
+      "Apartment": 0,
+      "Floor": 0,
+      "Entrance": 1,
+      "Comment": "комментарий к адресу",
+      "Latitude": 10.22,
+      "Longitude": 11.33,
+      "IsAcquiredByLocation": false,
+      "IsAvailableForDelivery": true,
+      "StoreId": "м2"
+    },
+    "DeliveryDate": "2021-04-13T00:00:00+05:00",
+    "StatusId": 2,
+    "StockOptionId": 2,
+    "PaymentTypeId": 2,
+    "DeliveryTypeId": 1,
+    "Comment": "комментарий к заказу",
+    "SumTotal": 20539.17,
+    "Items": [
+      {
+        "ProductId": "2",
+        "Price": 59.83,
+        "Quantity": 115
+      },
+      {
+        "ProductId": "1",
+        "Price": 21.82,
+        "Quantity": 84
+      },
+      {
+        "ProductId": "3",
+        "Price": 41.80,
+        "Quantity": 106
+      },
+      {
+        "ProductId": "4",
+        "Price": 83.35,
+        "Quantity": 23
+      },
+      {
+        "ProductId": "5",
+        "Price": 39.41,
+        "Quantity": 139
+      }
+    ]
+  },
+  {
+    "Id": "1987a9c5-b017-4325-bc44-a112539cf487",
+    "DocumentNumber": 0,
+    "DocumentDate": "2021-04-12T10:26:01.2838804Z",
+    "Customer": {
+      "Id": "74d1c3ae-fc19-4729-ac5a-45321d2e3eac",
+      "Name": "John Smith",
+      "Email": "aa@aa.aa",
+      "Phone": "\u002B79000010011"
+    },
+    "StoreId": "м2",
+    "DeliveryDate": "2021-04-13T00:00:00+05:00",
+    "StatusId": 2,
+    "StockOptionId": 2,
+    "PaymentTypeId": 2,
+    "DeliveryTypeId": 2,
+    "Comment": "комментарий к заказу",
+    "SumTotal": 32465.28,
+    "Items": [
+      {
+        "ProductId": "2",
+        "Price": 42.84,
+        "Quantity": 108
+      },
+      {
+        "ProductId": "1",
+        "Price": 143.24,
+        "Quantity": 81
+      },
+      {
+        "ProductId": "3",
+        "Price": 78.27,
+        "Quantity": 118
+      },
+      {
+        "ProductId": "4",
+        "Price": 50.09,
+        "Quantity": 77
+      },
+      {
+        "ProductId": "5",
+        "Price": 51.53,
+        "Quantity": 61
+      }
+    ]
+  }
+]

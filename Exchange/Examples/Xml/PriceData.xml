@@ -2,157 +2,107 @@
 <ArrayOfPriceData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PriceData>
     <StoreId>м1</StoreId>
-    <ProductId>17</ProductId>
-    <Price>402.94</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м1</StoreId>
-    <ProductId>16</ProductId>
-    <Price>247.59</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м1</StoreId>
-    <ProductId>15</ProductId>
-    <Price>380.67</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м1</StoreId>
-    <ProductId>14</ProductId>
-    <Price>125.75</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м1</StoreId>
-    <ProductId>13</ProductId>
-    <Price>69.32</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м1</StoreId>
     <ProductId>12</ProductId>
-    <Price>333.33</Price>
+    <Price>232.66</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>11</ProductId>
-    <Price>370.45</Price>
+    <Price>16.61</Price>
+  </PriceData>
+  <PriceData>
+    <StoreId>м1</StoreId>
+    <ProductId>10</ProductId>
+    <Price>495.99</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>9</ProductId>
-    <Price>374.72</Price>
+    <Price>89.96</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>8</ProductId>
-    <Price>367.30</Price>
+    <Price>315.71</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>7</ProductId>
-    <Price>218.18</Price>
+    <Price>376.57</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>6</ProductId>
-    <Price>334.78</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м1</StoreId>
-    <ProductId>5</ProductId>
-    <Price>168.92</Price>
+    <Price>359.99</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>4</ProductId>
-    <Price>210.77</Price>
+    <Price>454.02</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>3</ProductId>
-    <Price>102.07</Price>
+    <Price>76.44</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>1</ProductId>
-    <Price>471.37</Price>
+    <Price>62.56</Price>
   </PriceData>
   <PriceData>
     <StoreId>м1</StoreId>
     <ProductId>2</ProductId>
-    <Price>240.19</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м2</StoreId>
-    <ProductId>17</ProductId>
-    <Price>481.85</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м2</StoreId>
-    <ProductId>16</ProductId>
-    <Price>328.19</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м2</StoreId>
-    <ProductId>15</ProductId>
-    <Price>60.30</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м2</StoreId>
-    <ProductId>14</ProductId>
-    <Price>313.44</Price>
-  </PriceData>
-  <PriceData>
-    <StoreId>м2</StoreId>
-    <ProductId>13</ProductId>
-    <Price>436.57</Price>
+    <Price>34.35</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>12</ProductId>
-    <Price>430.61</Price>
+    <Price>83.75</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>10</ProductId>
-    <Price>498.14</Price>
+    <Price>362.11</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>9</ProductId>
-    <Price>421.31</Price>
+    <Price>133.44</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>8</ProductId>
-    <Price>25.89</Price>
+    <Price>130.28</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>7</ProductId>
-    <Price>30.62</Price>
+    <Price>491.21</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>6</ProductId>
-    <Price>397.16</Price>
+    <Price>310.24</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>5</ProductId>
-    <Price>236.53</Price>
+    <Price>283.36</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>4</ProductId>
-    <Price>171.21</Price>
+    <Price>431.63</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>3</ProductId>
-    <Price>266.68</Price>
+    <Price>17.87</Price>
   </PriceData>
   <PriceData>
     <StoreId>м2</StoreId>
     <ProductId>1</ProductId>
-    <Price>347.11</Price>
+    <Price>402.39</Price>
   </PriceData>
 </ArrayOfPriceData>

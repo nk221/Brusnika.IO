@@ -18,13 +18,5 @@
   {
     "ProductId": "12",
     "ProductCategoryId": "2"
-  },
-  {
-    "ProductId": "15",
-    "ProductCategoryId": "1"
-  },
-  {
-    "ProductId": "16",
-    "ProductCategoryId": "2"
   }
 ]

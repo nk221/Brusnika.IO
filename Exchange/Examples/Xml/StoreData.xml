@@ -2,410 +2,290 @@
 <ArrayOfStoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <StoreData>
     <StoreId>м1</StoreId>
-    <ProductId>17</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>4400</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>16</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>372.4</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>15</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>7633</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>14</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>9295</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>13</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>8968</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
     <ProductId>12</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>3376</AvailableQuantity>
+    <AvailableQuantity>8533</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>11</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>6314</AvailableQuantity>
+    <AvailableQuantity>8176.7</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>10</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>3630</AvailableQuantity>
+    <AvailableQuantity>5838</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>9</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>1712</AvailableQuantity>
+    <AvailableQuantity>4196</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>8</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>4956</AvailableQuantity>
+    <AvailableQuantity>809</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>7</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>7744</AvailableQuantity>
+    <AvailableQuantity>1549</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>6</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>3034.2</AvailableQuantity>
+    <AvailableQuantity>8995</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>5</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>6212</AvailableQuantity>
+    <AvailableQuantity>4474</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>4</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>8529</AvailableQuantity>
+    <AvailableQuantity>1861</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>3</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>5595</AvailableQuantity>
+    <AvailableQuantity>4635</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>1</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>6021</AvailableQuantity>
+    <AvailableQuantity>8973</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>2</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>3180</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>17</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>6902</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>16</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>7576</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>15</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>590</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>14</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>2542</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м1</StoreId>
-    <ProductId>13</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>5528.0</AvailableQuantity>
+    <AvailableQuantity>4825.3</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>12</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>7270</AvailableQuantity>
+    <AvailableQuantity>7925</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>11</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>4123</AvailableQuantity>
+    <AvailableQuantity>7182</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>10</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>9388</AvailableQuantity>
+    <AvailableQuantity>9119</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>9</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>9962</AvailableQuantity>
+    <AvailableQuantity>9164</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>8</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>8902</AvailableQuantity>
+    <AvailableQuantity>7426</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>7</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>9532</AvailableQuantity>
+    <AvailableQuantity>7985</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>6</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>5670</AvailableQuantity>
+    <AvailableQuantity>8026</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>5</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>583</AvailableQuantity>
+    <AvailableQuantity>8783</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>4</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>7249</AvailableQuantity>
+    <AvailableQuantity>3044</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>3</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>6755.9</AvailableQuantity>
+    <AvailableQuantity>8445.6</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>1</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>9862</AvailableQuantity>
+    <AvailableQuantity>4551</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м1</StoreId>
     <ProductId>2</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>8313</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>17</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>4819.3</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>16</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>2323</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>15</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>3703</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>14</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>6726</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>13</ProductId>
-    <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>3380</AvailableQuantity>
+    <AvailableQuantity>4339</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>12</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>2455</AvailableQuantity>
+    <AvailableQuantity>2771</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>11</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>5314</AvailableQuantity>
+    <AvailableQuantity>2131</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>10</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>5242</AvailableQuantity>
+    <AvailableQuantity>2192</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>9</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>1795</AvailableQuantity>
+    <AvailableQuantity>849</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>8</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>337</AvailableQuantity>
+    <AvailableQuantity>5688</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>7</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>35.6</AvailableQuantity>
+    <AvailableQuantity>3659.5</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>6</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>3718</AvailableQuantity>
+    <AvailableQuantity>8117</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>5</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>1119</AvailableQuantity>
+    <AvailableQuantity>7963</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>4</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>9053</AvailableQuantity>
+    <AvailableQuantity>1562</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>3</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>9308</AvailableQuantity>
+    <AvailableQuantity>6685</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>1</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>4433</AvailableQuantity>
+    <AvailableQuantity>3805</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>2</ProductId>
     <StockOptionId>1</StockOptionId>
-    <AvailableQuantity>6399</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>17</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>415</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>16</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>554</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>15</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>5021</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>14</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>814.5</AvailableQuantity>
-  </StoreData>
-  <StoreData>
-    <StoreId>м2</StoreId>
-    <ProductId>13</ProductId>
-    <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>7999</AvailableQuantity>
+    <AvailableQuantity>2413</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>12</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>9224</AvailableQuantity>
+    <AvailableQuantity>862</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>11</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>1279</AvailableQuantity>
+    <AvailableQuantity>7022</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>10</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>7316</AvailableQuantity>
+    <AvailableQuantity>3129</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>9</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>5922</AvailableQuantity>
+    <AvailableQuantity>9798.3</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>8</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>7983</AvailableQuantity>
+    <AvailableQuantity>2457</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>7</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>2584</AvailableQuantity>
+    <AvailableQuantity>9923</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>6</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>9365</AvailableQuantity>
+    <AvailableQuantity>9016</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>5</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>1182</AvailableQuantity>
+    <AvailableQuantity>4793</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>4</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>298.4</AvailableQuantity>
+    <AvailableQuantity>9201</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>3</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>8938</AvailableQuantity>
+    <AvailableQuantity>948</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>1</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>3250</AvailableQuantity>
+    <AvailableQuantity>7969</AvailableQuantity>
   </StoreData>
   <StoreData>
     <StoreId>м2</StoreId>
     <ProductId>2</ProductId>
     <StockOptionId>2</StockOptionId>
-    <AvailableQuantity>6789</AvailableQuantity>
+    <AvailableQuantity>6388</AvailableQuantity>
   </StoreData>
 </ArrayOfStoreData>

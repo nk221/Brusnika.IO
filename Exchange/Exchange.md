@@ -1,5 +1,7 @@
 # Описание формата обмена
-Версия 0.5
+Версия 0.6
+
+# Импортируемые данные
 
 ## Products
 Товар
@@ -150,6 +152,60 @@ Name *|String(1024)|Наименование
 Id *|Int32|Код
 Name *|String(1024)|Наименование
 Comment|String(5120)|Комментарий
+
+# Экспортируемые данные
+
+## Orders
+Заказ
+Поле|Тип|Описание
+----|---|---------
+Id *|Guid|Код
+DocumentNumber *|Int32|Номер документа
+DocumentDate|DateTime|Содан
+Customer|Customer|Покупатель
+StoreId *|String(40)|Код магазина
+CustomerAddress|CustomerAddress|Адрес покупателя
+DeliveryDate *|DateTime|Дата доставки
+StatusId *|Int32|Код статуса заказа
+StockOptionId *|Int32|Код типа отбора товаров
+PaymentTypeId *|Int32|Код типа оплаты
+DeliveryTypeId *|Int32|Код типа доставки
+Comment|String(1024)|Комментарий
+SumTotal *|Decimal|Сумма
+Items|OrderItem []|Товары в заказе
+
+## Customers
+Покупатель
+Поле|Тип|Описание
+----|---|---------
+Id *|Guid|Код
+Name *|String(128)|Имя
+Birthdate|DateTime|День рождения
+Email|String(128)|Email
+Phone *|String(16)|Телефон
+
+## CustomerAddresses
+Адрес пользователя
+Поле|Тип|Описание
+----|---|---------
+Id *|Guid|Код
+PostCode|String(10)|Индекс
+Country *|String(256)|Страна
+Region *|String(256)|Регион
+District|String(256)|Район
+Locality|String(256)|Город
+SubLocality|String(256)|Населенный пункт
+Street *|String(256)|Улица
+Building *|String(8)|Дом
+Apartment|Int32|Квартира
+Floor|Int32|Этаж
+Entrance|Int32|Подъезд
+Comment|String(1024)|Комментарий
+Latitude|Decimal|Широта
+Longitude|Decimal|Долгота
+IsAcquiredByLocation|Boolean|Получен через координаты
+IsAvailableForDelivery|Boolean|Доступен для доставки
+StoreId|String(40)|Код магазина
 
 (*) - обязательное поле
 

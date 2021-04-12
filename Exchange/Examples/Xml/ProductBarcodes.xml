@@ -2,70 +2,50 @@
 <ArrayOfBarcode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Barcode>
     <ProductId>2</ProductId>
-    <Code>0165559621035</Code>
+    <Code>8516956440736</Code>
   </Barcode>
   <Barcode>
     <ProductId>1</ProductId>
-    <Code>1075747744301</Code>
+    <Code>8081982945482</Code>
   </Barcode>
   <Barcode>
     <ProductId>3</ProductId>
-    <Code>7408386400972</Code>
+    <Code>6286249375220</Code>
   </Barcode>
   <Barcode>
     <ProductId>4</ProductId>
-    <Code>2452204811483</Code>
+    <Code>4113405160425</Code>
   </Barcode>
   <Barcode>
     <ProductId>5</ProductId>
-    <Code>0612494785235</Code>
+    <Code>7731282662213</Code>
   </Barcode>
   <Barcode>
     <ProductId>6</ProductId>
-    <Code>2059419851763</Code>
+    <Code>3838955440223</Code>
   </Barcode>
   <Barcode>
     <ProductId>7</ProductId>
-    <Code>4370600269777</Code>
+    <Code>6563218421226</Code>
   </Barcode>
   <Barcode>
     <ProductId>8</ProductId>
-    <Code>1302278200298</Code>
+    <Code>7134698111533</Code>
   </Barcode>
   <Barcode>
     <ProductId>9</ProductId>
-    <Code>4300549965942</Code>
+    <Code>2348220563256</Code>
   </Barcode>
   <Barcode>
     <ProductId>10</ProductId>
-    <Code>8119416877693</Code>
+    <Code>7640319996590</Code>
   </Barcode>
   <Barcode>
     <ProductId>11</ProductId>
-    <Code>3514877197796</Code>
+    <Code>4847008495720</Code>
   </Barcode>
   <Barcode>
     <ProductId>12</ProductId>
-    <Code>2953727435519</Code>
-  </Barcode>
-  <Barcode>
-    <ProductId>13</ProductId>
-    <Code>1757968152119</Code>
-  </Barcode>
-  <Barcode>
-    <ProductId>14</ProductId>
-    <Code>0708422909788</Code>
-  </Barcode>
-  <Barcode>
-    <ProductId>15</ProductId>
-    <Code>3749682200809</Code>
-  </Barcode>
-  <Barcode>
-    <ProductId>16</ProductId>
-    <Code>5851090709039</Code>
-  </Barcode>
-  <Barcode>
-    <ProductId>17</ProductId>
-    <Code>5117068478780</Code>
+    <Code>5651869684372</Code>
   </Barcode>
 </ArrayOfBarcode>

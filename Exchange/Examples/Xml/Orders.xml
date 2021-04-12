@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Id>7dae23ba-523d-447b-b357-4fab34ae72ec</Id>
+    <DocumentNumber>0</DocumentNumber>
+    <Customer>
+      <Id>74d1c3ae-fc19-4729-ac5a-45321d2e3eac</Id>
+      <Name>John Smith</Name>
+      <Birthdate xsi:nil="true" />
+      <Email>aa@aa.aa</Email>
+      <Phone>+79000010011</Phone>
+    </Customer>
+    <StoreId>м2</StoreId>
+    <CustomerAddress>
+      <Id>b79eafb4-94f6-4cac-b53c-abca9a177942</Id>
+      <PostCode>620014</PostCode>
+      <Country>Россия</Country>
+      <Region>Свердловская область</Region>
+      <District>Режевской р-н</District>
+      <Locality>Реж г</Locality>
+      <SubLocality />
+      <Street>Ленина ул</Street>
+      <Building>1</Building>
+      <Apartment>0</Apartment>
+      <Floor>0</Floor>
+      <Entrance>1</Entrance>
+      <Comment>комментарий к адресу</Comment>
+      <Latitude>10.22</Latitude>
+      <Longitude>11.33</Longitude>
+      <IsAcquiredByLocation>false</IsAcquiredByLocation>
+      <IsAvailableForDelivery>true</IsAvailableForDelivery>
+      <StoreId>м2</StoreId>
+    </CustomerAddress>
+    <DeliveryDate>2021-04-13T00:00:00+05:00</DeliveryDate>
+    <StatusId>2</StatusId>
+    <StockOptionId>2</StockOptionId>
+    <PaymentTypeId>2</PaymentTypeId>
+    <DeliveryTypeId>1</DeliveryTypeId>
+    <Comment>комментарий к заказу</Comment>
+    <SumTotal>20539.17</SumTotal>
+    <Items>
+      <OrderItem>
+        <ProductId>2</ProductId>
+        <Price>59.83</Price>
+        <Quantity>115</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>1</ProductId>
+        <Price>21.82</Price>
+        <Quantity>84</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>3</ProductId>
+        <Price>41.80</Price>
+        <Quantity>106</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>4</ProductId>
+        <Price>83.35</Price>
+        <Quantity>23</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>5</ProductId>
+        <Price>39.41</Price>
+        <Quantity>139</Quantity>
+      </OrderItem>
+    </Items>
+  </Order>
+  <Order>
+    <Id>1987a9c5-b017-4325-bc44-a112539cf487</Id>
+    <DocumentNumber>0</DocumentNumber>
+    <Customer>
+      <Id>74d1c3ae-fc19-4729-ac5a-45321d2e3eac</Id>
+      <Name>John Smith</Name>
+      <Birthdate xsi:nil="true" />
+      <Email>aa@aa.aa</Email>
+      <Phone>+79000010011</Phone>
+    </Customer>
+    <StoreId>м2</StoreId>
+    <DeliveryDate>2021-04-13T00:00:00+05:00</DeliveryDate>
+    <StatusId>2</StatusId>
+    <StockOptionId>2</StockOptionId>
+    <PaymentTypeId>2</PaymentTypeId>
+    <DeliveryTypeId>2</DeliveryTypeId>
+    <Comment>комментарий к заказу</Comment>
+    <SumTotal>32465.28</SumTotal>
+    <Items>
+      <OrderItem>
+        <ProductId>2</ProductId>
+        <Price>42.84</Price>
+        <Quantity>108</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>1</ProductId>
+        <Price>143.24</Price>
+        <Quantity>81</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>3</ProductId>
+        <Price>78.27</Price>
+        <Quantity>118</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>4</ProductId>
+        <Price>50.09</Price>
+        <Quantity>77</Quantity>
+      </OrderItem>
+      <OrderItem>
+        <ProductId>5</ProductId>
+        <Price>51.53</Price>
+        <Quantity>61</Quantity>
+      </OrderItem>
+    </Items>
+  </Order>
+</ArrayOfOrder>
