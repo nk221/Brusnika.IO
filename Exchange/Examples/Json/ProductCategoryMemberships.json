@@ -26,45 +26,5 @@
   {
     "ProductId": "16",
     "ProductCategoryId": "2"
-  },
-  {
-    "ProductId": "20",
-    "ProductCategoryId": "1"
-  },
-  {
-    "ProductId": "24",
-    "ProductCategoryId": "2"
-  },
-  {
-    "ProductId": "25",
-    "ProductCategoryId": "1"
-  },
-  {
-    "ProductId": "28",
-    "ProductCategoryId": "2"
-  },
-  {
-    "ProductId": "30",
-    "ProductCategoryId": "1"
-  },
-  {
-    "ProductId": "32",
-    "ProductCategoryId": "2"
-  },
-  {
-    "ProductId": "35",
-    "ProductCategoryId": "1"
-  },
-  {
-    "ProductId": "36",
-    "ProductCategoryId": "2"
-  },
-  {
-    "ProductId": "40",
-    "ProductCategoryId": "1"
-  },
-  {
-    "ProductId": "44",
-    "ProductCategoryId": "2"
   }
 ]

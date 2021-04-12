@@ -10,4 +10,4 @@
     <Name>Доставка</Name>
     <IsDeliveryToCustomer>true</IsDeliveryToCustomer>
   </DeliveryType>
-</ArrayOfDeliveryType>>
+</ArrayOfDeliveryType>
