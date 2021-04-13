@@ -174,6 +174,14 @@ Comment|String(1024)|Комментарий
 SumTotal *|Decimal|Сумма
 Items|OrderItem []|Товары в заказе
 
+## OrderItems
+Товар из заказа
+Поле|Тип|Описание
+----|---|---------
+ProductId *|String(40)|Код товара
+Price *|Decimal|Цена
+Quantity *|Decimal|Количество
+
 ## Customers
 Покупатель
 Поле|Тип|Описание
