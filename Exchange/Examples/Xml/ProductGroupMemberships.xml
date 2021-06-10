@@ -6,7 +6,7 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>2</ProductId>
-    <ProductGroupId>0103</ProductGroupId>
+    <ProductGroupId>0104</ProductGroupId>
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>1</ProductId>
@@ -18,7 +18,7 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>3</ProductId>
-    <ProductGroupId>0103</ProductGroupId>
+    <ProductGroupId>0104</ProductGroupId>
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>3</ProductId>
@@ -34,7 +34,7 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>5</ProductId>
-    <ProductGroupId>0103</ProductGroupId>
+    <ProductGroupId>0102</ProductGroupId>
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>5</ProductId>
@@ -42,7 +42,7 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>6</ProductId>
-    <ProductGroupId>0103</ProductGroupId>
+    <ProductGroupId>0102</ProductGroupId>
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>6</ProductId>
@@ -70,30 +70,6 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>9</ProductId>
-    <ProductGroupId>01</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>10</ProductId>
-    <ProductGroupId>0101</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>10</ProductId>
-    <ProductGroupId>01</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>11</ProductId>
-    <ProductGroupId>0101</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>11</ProductId>
-    <ProductGroupId>01</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>12</ProductId>
-    <ProductGroupId>0101</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>12</ProductId>
     <ProductGroupId>01</ProductGroupId>
   </ProductGroupMembership>
 </ArrayOfProductGroupMembership>

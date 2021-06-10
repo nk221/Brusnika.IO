@@ -1,5 +1,5 @@
 # Описание формата обмена
-Версия 0.6
+Версия 0.7
 
 # Импортируемые данные
 
@@ -171,7 +171,9 @@ StockOptionId *|Int32|Код типа отбора товаров
 PaymentTypeId *|Int32|Код типа оплаты
 DeliveryTypeId *|Int32|Код типа доставки
 Comment|String(1024)|Комментарий
-SumTotal *|Decimal|Сумма
+TotalOrdered *|Decimal|Сумма заказано
+TotalDelivered *|Decimal|Сумма отгружено
+TotalPaid *|Decimal|Сумма оплачено
 Items|OrderItem []|Товары в заказе
 
 ## OrderItems
@@ -180,7 +182,8 @@ Items|OrderItem []|Товары в заказе
 ----|---|---------
 ProductId *|String(40)|Код товара
 Price *|Decimal|Цена
-Quantity *|Decimal|Количество
+OrderedQuantity *|Decimal|Количество заказано
+DeliveredQuantity *|Decimal|Количество отгружено
 
 ## Customers
 Покупатель

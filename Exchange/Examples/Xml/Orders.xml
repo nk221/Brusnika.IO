@@ -1,114 +1,129 @@
 <?xml version="1.0"?>
 <ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Order>
-    <Id>7dae23ba-523d-447b-b357-4fab34ae72ec</Id>
+    <Id>57e6c97c-d22d-4443-9b49-2b950a941998</Id>
     <DocumentNumber>0</DocumentNumber>
+    <DocumentDate>2021-06-10T08:02:21.4120124Z</DocumentDate>
     <Customer>
-      <Id>74d1c3ae-fc19-4729-ac5a-45321d2e3eac</Id>
-      <Name>John Smith</Name>
-      <Birthdate xsi:nil="true" />
-      <Email>aa@aa.aa</Email>
-      <Phone>+79000010011</Phone>
+      <Id>02f53005-13b4-4170-824b-d4a29ba1b839</Id>
+      <Name>Алевтина Авдеева</Name>
+      <Birthdate>1983-04-28T19:23:13.7242823+06:00</Birthdate>
+      <Email>Alevtina.Aveeva@ya.ru</Email>
+      <Phone>(963)974-91-59</Phone>
     </Customer>
-    <StoreId>м2</StoreId>
+    <StoreId>м1</StoreId>
     <CustomerAddress>
-      <Id>b79eafb4-94f6-4cac-b53c-abca9a177942</Id>
-      <PostCode>620014</PostCode>
+      <Id>5863268b-2979-4d7b-acfd-0456794eb98f</Id>
+      <PostCode>840168</PostCode>
       <Country>Россия</Country>
-      <Region>Свердловская область</Region>
-      <District>Режевской р-н</District>
-      <Locality>Реж г</Locality>
+      <Region>Саратовская область</Region>
+      <Locality>Самара</Locality>
       <SubLocality />
-      <Street>Ленина ул</Street>
-      <Building>1</Building>
+      <Street>площадь Березовая</Street>
+      <Building>006</Building>
       <Apartment>0</Apartment>
       <Floor>0</Floor>
       <Entrance>1</Entrance>
-      <Comment>комментарий к адресу</Comment>
-      <Latitude>10.22</Latitude>
-      <Longitude>11.33</Longitude>
-      <IsAcquiredByLocation>false</IsAcquiredByLocation>
+      <Comment>Реализация показывает ресурсосберегающих показывает шагов.</Comment>
+      <Latitude>71.1725</Latitude>
+      <Longitude>111.9946</Longitude>
+      <IsAcquiredByLocation>true</IsAcquiredByLocation>
       <IsAvailableForDelivery>true</IsAvailableForDelivery>
       <StoreId>м2</StoreId>
     </CustomerAddress>
-    <DeliveryDate>2021-04-13T00:00:00+05:00</DeliveryDate>
-    <StatusId>2</StatusId>
+    <DeliveryDate>2021-06-11T00:00:00+05:00</DeliveryDate>
+    <StatusId>6</StatusId>
     <StockOptionId>2</StockOptionId>
     <PaymentTypeId>2</PaymentTypeId>
     <DeliveryTypeId>1</DeliveryTypeId>
-    <Comment>комментарий к заказу</Comment>
-    <SumTotal>20539.17</SumTotal>
+    <Comment>Обществом реализация же широким поставленных.</Comment>
+    <TotalOrdered>27765.77</TotalOrdered>
+    <TotalDelivered>25388.85</TotalDelivered>
+    <TotalPaid>0</TotalPaid>
     <Items>
       <OrderItem>
         <ProductId>2</ProductId>
-        <Price>59.83</Price>
-        <Quantity>115</Quantity>
+        <Price>56.14</Price>
+        <OrderedQuantity>95</OrderedQuantity>
+        <DeliveredQuantity>89</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>1</ProductId>
-        <Price>21.82</Price>
-        <Quantity>84</Quantity>
+        <Price>20.16</Price>
+        <OrderedQuantity>65</OrderedQuantity>
+        <DeliveredQuantity>31</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>3</ProductId>
-        <Price>41.80</Price>
-        <Quantity>106</Quantity>
+        <Price>12.41</Price>
+        <OrderedQuantity>148</OrderedQuantity>
+        <DeliveredQuantity>148</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>4</ProductId>
-        <Price>83.35</Price>
-        <Quantity>23</Quantity>
+        <Price>48.38</Price>
+        <OrderedQuantity>38</OrderedQuantity>
+        <DeliveredQuantity>10</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>5</ProductId>
-        <Price>39.41</Price>
-        <Quantity>139</Quantity>
+        <Price>127.35</Price>
+        <OrderedQuantity>137</OrderedQuantity>
+        <DeliveredQuantity>137</DeliveredQuantity>
       </OrderItem>
     </Items>
   </Order>
   <Order>
-    <Id>1987a9c5-b017-4325-bc44-a112539cf487</Id>
+    <Id>d06f53e3-ed07-4b52-ade3-2e78d68d1f6c</Id>
     <DocumentNumber>0</DocumentNumber>
+    <DocumentDate>2021-06-10T08:02:21.4120124Z</DocumentDate>
     <Customer>
-      <Id>74d1c3ae-fc19-4729-ac5a-45321d2e3eac</Id>
-      <Name>John Smith</Name>
-      <Birthdate xsi:nil="true" />
-      <Email>aa@aa.aa</Email>
-      <Phone>+79000010011</Phone>
+      <Id>02f53005-13b4-4170-824b-d4a29ba1b839</Id>
+      <Name>Алевтина Авдеева</Name>
+      <Birthdate>1983-04-28T19:23:13.7242823+06:00</Birthdate>
+      <Email>Alevtina.Aveeva@ya.ru</Email>
+      <Phone>(963)974-91-59</Phone>
     </Customer>
-    <StoreId>м2</StoreId>
-    <DeliveryDate>2021-04-13T00:00:00+05:00</DeliveryDate>
-    <StatusId>2</StatusId>
+    <StoreId>м1</StoreId>
+    <DeliveryDate>2021-06-11T00:00:00+05:00</DeliveryDate>
+    <StatusId>4</StatusId>
     <StockOptionId>2</StockOptionId>
     <PaymentTypeId>2</PaymentTypeId>
     <DeliveryTypeId>2</DeliveryTypeId>
-    <Comment>комментарий к заказу</Comment>
-    <SumTotal>32465.28</SumTotal>
+    <Comment>Демократической направлений равным общества консультация.</Comment>
+    <TotalOrdered>36655.52</TotalOrdered>
+    <TotalDelivered>35474.00</TotalDelivered>
+    <TotalPaid>0</TotalPaid>
     <Items>
       <OrderItem>
         <ProductId>2</ProductId>
-        <Price>42.84</Price>
-        <Quantity>108</Quantity>
+        <Price>31.11</Price>
+        <OrderedQuantity>88</OrderedQuantity>
+        <DeliveredQuantity>88</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>1</ProductId>
-        <Price>143.24</Price>
-        <Quantity>81</Quantity>
+        <Price>147.69</Price>
+        <OrderedQuantity>33</OrderedQuantity>
+        <DeliveredQuantity>25</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>3</ProductId>
-        <Price>78.27</Price>
-        <Quantity>118</Quantity>
+        <Price>133.19</Price>
+        <OrderedQuantity>115</OrderedQuantity>
+        <DeliveredQuantity>115</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>4</ProductId>
-        <Price>50.09</Price>
-        <Quantity>77</Quantity>
+        <Price>88.26</Price>
+        <OrderedQuantity>108</OrderedQuantity>
+        <DeliveredQuantity>108</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>5</ProductId>
-        <Price>51.53</Price>
-        <Quantity>61</Quantity>
+        <Price>48.22</Price>
+        <OrderedQuantity>87</OrderedQuantity>
+        <DeliveredQuantity>87</DeliveredQuantity>
       </OrderItem>
     </Items>
   </Order>

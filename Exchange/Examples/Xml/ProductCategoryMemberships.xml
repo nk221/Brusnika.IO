@@ -12,12 +12,4 @@
     <ProductId>8</ProductId>
     <ProductCategoryId>2</ProductCategoryId>
   </ProductCategoryMembership>
-  <ProductCategoryMembership>
-    <ProductId>10</ProductId>
-    <ProductCategoryId>1</ProductCategoryId>
-  </ProductCategoryMembership>
-  <ProductCategoryMembership>
-    <ProductId>12</ProductId>
-    <ProductCategoryId>2</ProductCategoryId>
-  </ProductCategoryMembership>
 </ArrayOfProductCategoryMembership>

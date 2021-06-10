@@ -1,290 +1,218 @@
 [
   {
     "StoreId": "м1",
-    "ProductId": "12",
-    "StockOptionId": 1,
-    "AvailableQuantity": 8533
-  },
-  {
-    "StoreId": "м1",
-    "ProductId": "11",
-    "StockOptionId": 1,
-    "AvailableQuantity": 8176.7
-  },
-  {
-    "StoreId": "м1",
-    "ProductId": "10",
-    "StockOptionId": 1,
-    "AvailableQuantity": 5838
-  },
-  {
-    "StoreId": "м1",
     "ProductId": "9",
     "StockOptionId": 1,
-    "AvailableQuantity": 4196
+    "AvailableQuantity": 9509
   },
   {
     "StoreId": "м1",
     "ProductId": "8",
     "StockOptionId": 1,
-    "AvailableQuantity": 809
+    "AvailableQuantity": 9718
   },
   {
     "StoreId": "м1",
     "ProductId": "7",
     "StockOptionId": 1,
-    "AvailableQuantity": 1549
+    "AvailableQuantity": 7490
   },
   {
     "StoreId": "м1",
     "ProductId": "6",
     "StockOptionId": 1,
-    "AvailableQuantity": 8995
+    "AvailableQuantity": 2082.9
   },
   {
     "StoreId": "м1",
     "ProductId": "5",
     "StockOptionId": 1,
-    "AvailableQuantity": 4474
+    "AvailableQuantity": 6522
   },
   {
     "StoreId": "м1",
     "ProductId": "4",
     "StockOptionId": 1,
-    "AvailableQuantity": 1861
+    "AvailableQuantity": 9256
   },
   {
     "StoreId": "м1",
     "ProductId": "3",
     "StockOptionId": 1,
-    "AvailableQuantity": 4635
+    "AvailableQuantity": 3163
   },
   {
     "StoreId": "м1",
     "ProductId": "1",
     "StockOptionId": 1,
-    "AvailableQuantity": 8973
+    "AvailableQuantity": 9963
   },
   {
     "StoreId": "м1",
     "ProductId": "2",
     "StockOptionId": 1,
-    "AvailableQuantity": 4825.3
-  },
-  {
-    "StoreId": "м1",
-    "ProductId": "12",
-    "StockOptionId": 2,
-    "AvailableQuantity": 7925
-  },
-  {
-    "StoreId": "м1",
-    "ProductId": "11",
-    "StockOptionId": 2,
-    "AvailableQuantity": 7182
-  },
-  {
-    "StoreId": "м1",
-    "ProductId": "10",
-    "StockOptionId": 2,
-    "AvailableQuantity": 9119
+    "AvailableQuantity": 603
   },
   {
     "StoreId": "м1",
     "ProductId": "9",
     "StockOptionId": 2,
-    "AvailableQuantity": 9164
+    "AvailableQuantity": 2004
   },
   {
     "StoreId": "м1",
     "ProductId": "8",
     "StockOptionId": 2,
-    "AvailableQuantity": 7426
+    "AvailableQuantity": 3018
   },
   {
     "StoreId": "м1",
     "ProductId": "7",
     "StockOptionId": 2,
-    "AvailableQuantity": 7985
+    "AvailableQuantity": 1753
   },
   {
     "StoreId": "м1",
     "ProductId": "6",
     "StockOptionId": 2,
-    "AvailableQuantity": 8026
+    "AvailableQuantity": 5743
   },
   {
     "StoreId": "м1",
     "ProductId": "5",
     "StockOptionId": 2,
-    "AvailableQuantity": 8783
+    "AvailableQuantity": 6198.2
   },
   {
     "StoreId": "м1",
     "ProductId": "4",
     "StockOptionId": 2,
-    "AvailableQuantity": 3044
+    "AvailableQuantity": 5989
   },
   {
     "StoreId": "м1",
     "ProductId": "3",
     "StockOptionId": 2,
-    "AvailableQuantity": 8445.6
+    "AvailableQuantity": 1244
   },
   {
     "StoreId": "м1",
     "ProductId": "1",
     "StockOptionId": 2,
-    "AvailableQuantity": 4551
+    "AvailableQuantity": 3667
   },
   {
     "StoreId": "м1",
     "ProductId": "2",
     "StockOptionId": 2,
-    "AvailableQuantity": 4339
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "12",
-    "StockOptionId": 1,
-    "AvailableQuantity": 2771
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "11",
-    "StockOptionId": 1,
-    "AvailableQuantity": 2131
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "10",
-    "StockOptionId": 1,
-    "AvailableQuantity": 2192
+    "AvailableQuantity": 2552
   },
   {
     "StoreId": "м2",
     "ProductId": "9",
     "StockOptionId": 1,
-    "AvailableQuantity": 849
+    "AvailableQuantity": 5888
   },
   {
     "StoreId": "м2",
     "ProductId": "8",
     "StockOptionId": 1,
-    "AvailableQuantity": 5688
+    "AvailableQuantity": 7388
   },
   {
     "StoreId": "м2",
     "ProductId": "7",
     "StockOptionId": 1,
-    "AvailableQuantity": 3659.5
+    "AvailableQuantity": 2835
   },
   {
     "StoreId": "м2",
     "ProductId": "6",
     "StockOptionId": 1,
-    "AvailableQuantity": 8117
+    "AvailableQuantity": 3085
   },
   {
     "StoreId": "м2",
     "ProductId": "5",
     "StockOptionId": 1,
-    "AvailableQuantity": 7963
+    "AvailableQuantity": 6584
   },
   {
     "StoreId": "м2",
     "ProductId": "4",
     "StockOptionId": 1,
-    "AvailableQuantity": 1562
+    "AvailableQuantity": 9716
   },
   {
     "StoreId": "м2",
     "ProductId": "3",
     "StockOptionId": 1,
-    "AvailableQuantity": 6685
+    "AvailableQuantity": 1668.3
   },
   {
     "StoreId": "м2",
     "ProductId": "1",
     "StockOptionId": 1,
-    "AvailableQuantity": 3805
+    "AvailableQuantity": 1088
   },
   {
     "StoreId": "м2",
     "ProductId": "2",
     "StockOptionId": 1,
-    "AvailableQuantity": 2413
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "12",
-    "StockOptionId": 2,
-    "AvailableQuantity": 862
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "11",
-    "StockOptionId": 2,
-    "AvailableQuantity": 7022
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "10",
-    "StockOptionId": 2,
-    "AvailableQuantity": 3129
+    "AvailableQuantity": 7841
   },
   {
     "StoreId": "м2",
     "ProductId": "9",
     "StockOptionId": 2,
-    "AvailableQuantity": 9798.3
+    "AvailableQuantity": 5225
   },
   {
     "StoreId": "м2",
     "ProductId": "8",
     "StockOptionId": 2,
-    "AvailableQuantity": 2457
+    "AvailableQuantity": 5326
   },
   {
     "StoreId": "м2",
     "ProductId": "7",
     "StockOptionId": 2,
-    "AvailableQuantity": 9923
+    "AvailableQuantity": 699
   },
   {
     "StoreId": "м2",
     "ProductId": "6",
     "StockOptionId": 2,
-    "AvailableQuantity": 9016
+    "AvailableQuantity": 2418
   },
   {
     "StoreId": "м2",
     "ProductId": "5",
     "StockOptionId": 2,
-    "AvailableQuantity": 4793
+    "AvailableQuantity": 3702
   },
   {
     "StoreId": "м2",
     "ProductId": "4",
     "StockOptionId": 2,
-    "AvailableQuantity": 9201
+    "AvailableQuantity": 5288
   },
   {
     "StoreId": "м2",
     "ProductId": "3",
     "StockOptionId": 2,
-    "AvailableQuantity": 948
+    "AvailableQuantity": 5008
   },
   {
     "StoreId": "м2",
     "ProductId": "1",
     "StockOptionId": 2,
-    "AvailableQuantity": 7969
+    "AvailableQuantity": 2506.8
   },
   {
     "StoreId": "м2",
     "ProductId": "2",
     "StockOptionId": 2,
-    "AvailableQuantity": 6388
+    "AvailableQuantity": 7639
   }
 ]
