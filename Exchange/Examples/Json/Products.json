@@ -1,110 +1,83 @@
 [
   {
     "Id": "2",
-    "Name": "Большой Меховой Куртка, роль гражданского. (388 л)",
+    "Name": "Практичный Бетонный Кошелек, организации. (255 упак)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/64e9251a-679a-46a9-bea7-cc868b8243ad.jpg",
+    "Unit": "шт.",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "1",
-    "Name": "Свободный Меховой Автомобиль, массового. (311 упак)",
+    "Name": "Маленький Резиновый Кулон, качественно. (386 л)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
     "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/6cf594b8-0442-454b-b2d1-68c4cf2b0e85.jpg",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "3",
-    "Name": "Свободный Неодимовый Кошелек, эксперимент национальный процесс. (122 г)",
+    "Name": "Грубый Стальной Кулон, очевидна образом отметить. (443 г)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/16bb9aa8-ed34-4c46-b509-b855ac669a0b.jpg",
+    "Unit": "шт.",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "4",
-    "Name": "Грубый Натуральный Свитер, зависит задача представляет. (358 упак)",
+    "Name": "Эргономичный Меховой Кепка, активом. (91 упак)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/0b5e66de-ccfa-4326-be82-74c8951ecde9.jpg",
+    "Unit": "шт.",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "5",
-    "Name": "Лоснящийся Бетонный Плащ, форм профессионального. (298 упак)",
+    "Name": "Эргономичный Хлопковый Сабо, активом социально-ориентированный экономической. (470 л)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
     "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/5450b2ec-b4da-445d-baf4-6c8d75f27530.jpg",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "6",
-    "Name": "Грубый Гранитный Куртка, рамки настолько. (63 л)",
+    "Name": "Фантастический Натуральный Ножницы, однако активности. (96 л)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/964cf646-70cc-4073-97cd-da441a078979.jpg",
+    "Unit": "упак.",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "7",
-    "Name": "Потрясающий Стальной Берет, плановых стороны концепция. (232 шт)",
+    "Name": "Невероятный Гранитный Компьютер, базы мира. (105 шт)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
     "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/30313851-6d9c-4162-895b-2a62035bf8b0.jpg",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "8",
-    "Name": "Потрясающий Меховой Кошелек, укрепления. (158 л)",
+    "Name": "Фантастический Пластиковый Стол, дальнейших обучения однако. (99 г)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/f934ce5d-8810-45c5-8a34-c926fbb950f5.jpg",
+    "Unit": "упак.",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   },
   {
     "Id": "9",
-    "Name": "Эргономичный Пластиковый Шарф, особенности дальнейшее. (220 шт)",
-    "MinimumOrderQuantity": 1,
-    "OrderQuantityMultiplier": 1,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/5a1810e1-e733-4f61-bb62-5f0791c06f0f.jpg",
-    "IsDisabled": false
-  },
-  {
-    "Id": "10",
-    "Name": "Лоснящийся Гранитный Клатч, участниками. (402 упак)",
-    "MinimumOrderQuantity": 5,
-    "OrderQuantityMultiplier": 5,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/a3f29dc4-a3be-4b6c-b394-aa0e07aea5e6.jpg",
-    "IsDisabled": false
-  },
-  {
-    "Id": "11",
-    "Name": "Невероятный Пластиковый Куртка, образом значение. (171 шт)",
-    "MinimumOrderQuantity": 1,
-    "OrderQuantityMultiplier": 1,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/6680c5cb-e32e-4a57-b391-6b6abf042532.jpg",
-    "IsDisabled": true
-  },
-  {
-    "Id": "12",
-    "Name": "Практичный Бетонный Портмоне, высшего повседневная. (17 упак)",
+    "Name": "Маленький Кожанный Свитер, занимаемых. (471 упак)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
     "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/964cf646-70cc-4073-97cd-da441a078979.jpg",
+    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
     "IsDisabled": false
   }
 ]

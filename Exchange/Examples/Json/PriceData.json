@@ -1,107 +1,82 @@
 [
   {
     "StoreId": "м1",
-    "ProductId": "12",
-    "Price": 232.66
-  },
-  {
-    "StoreId": "м1",
-    "ProductId": "11",
-    "Price": 16.61
-  },
-  {
-    "StoreId": "м1",
-    "ProductId": "10",
-    "Price": 495.99
-  },
-  {
-    "StoreId": "м1",
     "ProductId": "9",
-    "Price": 89.96
+    "Price": 489.89
   },
   {
     "StoreId": "м1",
     "ProductId": "8",
-    "Price": 315.71
+    "Price": 440.83
   },
   {
     "StoreId": "м1",
     "ProductId": "7",
-    "Price": 376.57
+    "Price": 409.47
   },
   {
     "StoreId": "м1",
     "ProductId": "6",
-    "Price": 359.99
+    "Price": 444.27
   },
   {
     "StoreId": "м1",
-    "ProductId": "4",
-    "Price": 454.02
+    "ProductId": "5",
+    "Price": 147.61
   },
   {
     "StoreId": "м1",
     "ProductId": "3",
-    "Price": 76.44
+    "Price": 260.73
   },
   {
     "StoreId": "м1",
     "ProductId": "1",
-    "Price": 62.56
+    "Price": 203.41
   },
   {
     "StoreId": "м1",
     "ProductId": "2",
-    "Price": 34.35
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "12",
-    "Price": 83.75
-  },
-  {
-    "StoreId": "м2",
-    "ProductId": "10",
-    "Price": 362.11
+    "Price": 331.97
   },
   {
     "StoreId": "м2",
     "ProductId": "9",
-    "Price": 133.44
+    "Price": 354.05
   },
   {
     "StoreId": "м2",
     "ProductId": "8",
-    "Price": 130.28
+    "Price": 156.93
   },
   {
     "StoreId": "м2",
     "ProductId": "7",
-    "Price": 491.21
+    "Price": 247.46
   },
   {
     "StoreId": "м2",
     "ProductId": "6",
-    "Price": 310.24
+    "Price": 427.88
   },
   {
     "StoreId": "м2",
     "ProductId": "5",
-    "Price": 283.36
+    "Price": 155.44
   },
   {
     "StoreId": "м2",
     "ProductId": "4",
-    "Price": 431.63
+    "Price": 308.57
   },
   {
     "StoreId": "м2",
     "ProductId": "3",
-    "Price": 17.87
+    "Price": 18.93
   },
   {
     "StoreId": "м2",
     "ProductId": "1",
-    "Price": 402.39
+    "Price": 465.95
   }
 ]

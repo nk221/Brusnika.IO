@@ -2,110 +2,83 @@
 <ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Product>
     <Id>2</Id>
-    <Name>Большой Меховой Куртка, роль гражданского. (388 л)</Name>
+    <Name>Практичный Бетонный Кошелек, организации. (255 упак)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
-    <Unit>упак.</Unit>
-    <ImageUrl>/static/images/thumbnails/64e9251a-679a-46a9-bea7-cc868b8243ad.jpg</ImageUrl>
+    <Unit>шт.</Unit>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>1</Id>
-    <Name>Свободный Меховой Автомобиль, массового. (311 упак)</Name>
+    <Name>Маленький Резиновый Кулон, качественно. (386 л)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
     <Unit>упак.</Unit>
-    <ImageUrl>/static/images/thumbnails/6cf594b8-0442-454b-b2d1-68c4cf2b0e85.jpg</ImageUrl>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>3</Id>
-    <Name>Свободный Неодимовый Кошелек, эксперимент национальный процесс. (122 г)</Name>
+    <Name>Грубый Стальной Кулон, очевидна образом отметить. (443 г)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
-    <Unit>упак.</Unit>
-    <ImageUrl>/static/images/thumbnails/16bb9aa8-ed34-4c46-b509-b855ac669a0b.jpg</ImageUrl>
+    <Unit>шт.</Unit>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>4</Id>
-    <Name>Грубый Натуральный Свитер, зависит задача представляет. (358 упак)</Name>
+    <Name>Эргономичный Меховой Кепка, активом. (91 упак)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
-    <Unit>упак.</Unit>
-    <ImageUrl>/static/images/thumbnails/0b5e66de-ccfa-4326-be82-74c8951ecde9.jpg</ImageUrl>
+    <Unit>шт.</Unit>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>5</Id>
-    <Name>Лоснящийся Бетонный Плащ, форм профессионального. (298 упак)</Name>
+    <Name>Эргономичный Хлопковый Сабо, активом социально-ориентированный экономической. (470 л)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
     <Unit>упак.</Unit>
-    <ImageUrl>/static/images/thumbnails/5450b2ec-b4da-445d-baf4-6c8d75f27530.jpg</ImageUrl>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>6</Id>
-    <Name>Грубый Гранитный Куртка, рамки настолько. (63 л)</Name>
+    <Name>Фантастический Натуральный Ножницы, однако активности. (96 л)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
-    <Unit>шт.</Unit>
-    <ImageUrl>/static/images/thumbnails/964cf646-70cc-4073-97cd-da441a078979.jpg</ImageUrl>
+    <Unit>упак.</Unit>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>7</Id>
-    <Name>Потрясающий Стальной Берет, плановых стороны концепция. (232 шт)</Name>
+    <Name>Невероятный Гранитный Компьютер, базы мира. (105 шт)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
     <Unit>шт.</Unit>
-    <ImageUrl>/static/images/thumbnails/30313851-6d9c-4162-895b-2a62035bf8b0.jpg</ImageUrl>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>8</Id>
-    <Name>Потрясающий Меховой Кошелек, укрепления. (158 л)</Name>
+    <Name>Фантастический Пластиковый Стол, дальнейших обучения однако. (99 г)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
-    <Unit>шт.</Unit>
-    <ImageUrl>/static/images/thumbnails/f934ce5d-8810-45c5-8a34-c926fbb950f5.jpg</ImageUrl>
+    <Unit>упак.</Unit>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
   <Product>
     <Id>9</Id>
-    <Name>Эргономичный Пластиковый Шарф, особенности дальнейшее. (220 шт)</Name>
-    <MinimumOrderQuantity>1</MinimumOrderQuantity>
-    <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
-    <Unit>шт.</Unit>
-    <ImageUrl>/static/images/thumbnails/5a1810e1-e733-4f61-bb62-5f0791c06f0f.jpg</ImageUrl>
-    <IsDisabled>false</IsDisabled>
-  </Product>
-  <Product>
-    <Id>10</Id>
-    <Name>Лоснящийся Гранитный Клатч, участниками. (402 упак)</Name>
-    <MinimumOrderQuantity>5</MinimumOrderQuantity>
-    <OrderQuantityMultiplier>5</OrderQuantityMultiplier>
-    <Unit>шт.</Unit>
-    <ImageUrl>/static/images/thumbnails/a3f29dc4-a3be-4b6c-b394-aa0e07aea5e6.jpg</ImageUrl>
-    <IsDisabled>false</IsDisabled>
-  </Product>
-  <Product>
-    <Id>11</Id>
-    <Name>Невероятный Пластиковый Куртка, образом значение. (171 шт)</Name>
-    <MinimumOrderQuantity>1</MinimumOrderQuantity>
-    <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
-    <Unit>шт.</Unit>
-    <ImageUrl>/static/images/thumbnails/6680c5cb-e32e-4a57-b391-6b6abf042532.jpg</ImageUrl>
-    <IsDisabled>true</IsDisabled>
-  </Product>
-  <Product>
-    <Id>12</Id>
-    <Name>Практичный Бетонный Портмоне, высшего повседневная. (17 упак)</Name>
+    <Name>Маленький Кожанный Свитер, занимаемых. (471 упак)</Name>
     <MinimumOrderQuantity>1</MinimumOrderQuantity>
     <OrderQuantityMultiplier>1</OrderQuantityMultiplier>
     <Unit>упак.</Unit>
-    <ImageUrl>/static/images/thumbnails/964cf646-70cc-4073-97cd-da441a078979.jpg</ImageUrl>
+    <ImageUrl>/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg</ImageUrl>
     <IsDisabled>false</IsDisabled>
   </Product>
 </ArrayOfProduct>
