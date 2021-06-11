@@ -5,7 +5,7 @@
   },
   {
     "ProductId": "2",
-    "ProductGroupId": "0104"
+    "ProductGroupId": "0103"
   },
   {
     "ProductId": "1",
@@ -17,7 +17,7 @@
   },
   {
     "ProductId": "3",
-    "ProductGroupId": "0104"
+    "ProductGroupId": "0103"
   },
   {
     "ProductId": "3",
@@ -33,7 +33,7 @@
   },
   {
     "ProductId": "5",
-    "ProductGroupId": "0102"
+    "ProductGroupId": "0103"
   },
   {
     "ProductId": "5",
@@ -61,14 +61,6 @@
   },
   {
     "ProductId": "8",
-    "ProductGroupId": "01"
-  },
-  {
-    "ProductId": "9",
-    "ProductGroupId": "0101"
-  },
-  {
-    "ProductId": "9",
     "ProductGroupId": "01"
   }
 ]

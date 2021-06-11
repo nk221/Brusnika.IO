@@ -1,11 +1,18 @@
 <?xml version="1.0"?>
 <ArrayOfPaymentType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PaymentType>
+    <Id>3</Id>
+    <Name>Оплата в приложении</Name>
+    <IsPrepaid>true</IsPrepaid>
+  </PaymentType>
+  <PaymentType>
     <Id>2</Id>
     <Name>Картой при получении</Name>
+    <IsPrepaid>false</IsPrepaid>
   </PaymentType>
   <PaymentType>
     <Id>1</Id>
     <Name>Наличными при получении</Name>
+    <IsPrepaid>false</IsPrepaid>
   </PaymentType>
 </ArrayOfPaymentType>

@@ -1,128 +1,128 @@
 [
   {
-    "Id": "57e6c97c-d22d-4443-9b49-2b950a941998",
+    "Id": "525b6ad9-1d61-4ad5-aac0-929ea865edff",
     "DocumentNumber": 0,
-    "DocumentDate": "2021-06-10T08:02:21.4120124Z",
+    "DocumentDate": "2021-06-11T06:14:40.4768597Z",
     "Customer": {
-      "Id": "02f53005-13b4-4170-824b-d4a29ba1b839",
-      "Name": "Алевтина Авдеева",
-      "Birthdate": "1983-04-28T19:23:13.7242823+06:00",
-      "Email": "Alevtina.Aveeva@ya.ru",
-      "Phone": "(963)974-91-59"
+      "Id": "3d6e105a-954e-4b55-a780-63635ee47ff2",
+      "Name": "Ангелина Силина",
+      "Birthdate": "1969-06-08T15:26:25.0721687+06:00",
+      "Email": "Angelina.Silina80@gmail.com",
+      "Phone": "(914)581-81-19"
     },
-    "StoreId": "м1",
+    "StoreId": "м2",
     "CustomerAddress": {
-      "Id": "5863268b-2979-4d7b-acfd-0456794eb98f",
-      "PostCode": "840168",
+      "Id": "8c45001a-946c-4829-ab78-54c961381270",
+      "PostCode": "290578",
       "Country": "Россия",
-      "Region": "Саратовская область",
-      "Locality": "Самара",
+      "Region": "Липецкая область",
+      "Locality": "Ижевск",
       "SubLocality": "",
-      "Street": "площадь Березовая",
-      "Building": "006",
+      "Street": "Западная пл.",
+      "Building": "619",
       "Apartment": 0,
       "Floor": 0,
       "Entrance": 1,
-      "Comment": "Реализация показывает ресурсосберегающих показывает шагов.",
-      "Latitude": 71.1725,
-      "Longitude": 111.9946,
+      "Comment": "Форм высокотехнологичная разнообразный степени с намеченных.",
+      "Latitude": -46.4388,
+      "Longitude": 48.1069,
       "IsAcquiredByLocation": true,
       "IsAvailableForDelivery": true,
       "StoreId": "м2"
     },
-    "DeliveryDate": "2021-06-11T00:00:00+05:00",
-    "StatusId": 6,
+    "DeliveryDate": "2021-06-12T00:00:00+05:00",
+    "StatusId": 40,
     "StockOptionId": 2,
-    "PaymentTypeId": 2,
+    "PaymentTypeId": 3,
     "DeliveryTypeId": 1,
-    "Comment": "Обществом реализация же широким поставленных.",
-    "TotalOrdered": 27765.77,
-    "TotalDelivered": 25388.85,
-    "TotalPaid": 0,
+    "Comment": "Нами а формирования плановых позиции высшего.",
+    "TotalOrdered": 20346.86,
+    "TotalDelivered": 16821.34,
+    "TotalPaid": 16821.34,
     "Items": [
       {
         "ProductId": "2",
-        "Price": 56.14,
-        "OrderedQuantity": 95,
-        "DeliveredQuantity": 89
+        "Price": 48.36,
+        "OrderedQuantity": 33,
+        "DeliveredQuantity": 13
       },
       {
         "ProductId": "1",
-        "Price": 20.16,
-        "OrderedQuantity": 65,
-        "DeliveredQuantity": 31
+        "Price": 51.15,
+        "OrderedQuantity": 132,
+        "DeliveredQuantity": 124
       },
       {
         "ProductId": "3",
-        "Price": 12.41,
-        "OrderedQuantity": 148,
-        "DeliveredQuantity": 148
+        "Price": 87.27,
+        "OrderedQuantity": 78,
+        "DeliveredQuantity": 78
       },
       {
         "ProductId": "4",
-        "Price": 48.38,
-        "OrderedQuantity": 38,
-        "DeliveredQuantity": 10
+        "Price": 16.41,
+        "OrderedQuantity": 76,
+        "DeliveredQuantity": 76
       },
       {
         "ProductId": "5",
-        "Price": 127.35,
-        "OrderedQuantity": 137,
-        "DeliveredQuantity": 137
+        "Price": 29.44,
+        "OrderedQuantity": 134,
+        "DeliveredQuantity": 61
       }
     ]
   },
   {
-    "Id": "d06f53e3-ed07-4b52-ade3-2e78d68d1f6c",
+    "Id": "e1ba3a8a-b998-47e7-b09a-211ceda63c16",
     "DocumentNumber": 0,
-    "DocumentDate": "2021-06-10T08:02:21.4120124Z",
+    "DocumentDate": "2021-06-11T06:14:40.4768597Z",
     "Customer": {
-      "Id": "02f53005-13b4-4170-824b-d4a29ba1b839",
-      "Name": "Алевтина Авдеева",
-      "Birthdate": "1983-04-28T19:23:13.7242823+06:00",
-      "Email": "Alevtina.Aveeva@ya.ru",
-      "Phone": "(963)974-91-59"
+      "Id": "3d6e105a-954e-4b55-a780-63635ee47ff2",
+      "Name": "Ангелина Силина",
+      "Birthdate": "1969-06-08T15:26:25.0721687+06:00",
+      "Email": "Angelina.Silina80@gmail.com",
+      "Phone": "(914)581-81-19"
     },
-    "StoreId": "м1",
-    "DeliveryDate": "2021-06-11T00:00:00+05:00",
-    "StatusId": 4,
+    "StoreId": "м2",
+    "DeliveryDate": "2021-06-12T00:00:00+05:00",
+    "StatusId": 80,
     "StockOptionId": 2,
-    "PaymentTypeId": 2,
+    "PaymentTypeId": 3,
     "DeliveryTypeId": 2,
-    "Comment": "Демократической направлений равным общества консультация.",
-    "TotalOrdered": 36655.52,
-    "TotalDelivered": 35474.00,
+    "Comment": "Общественной интересный общественной активизации.",
+    "TotalOrdered": 44889.61,
+    "TotalDelivered": 24359.49,
     "TotalPaid": 0,
     "Items": [
       {
         "ProductId": "2",
-        "Price": 31.11,
-        "OrderedQuantity": 88,
-        "DeliveredQuantity": 88
+        "Price": 131.16,
+        "OrderedQuantity": 17,
+        "DeliveredQuantity": 0
       },
       {
         "ProductId": "1",
-        "Price": 147.69,
-        "OrderedQuantity": 33,
-        "DeliveredQuantity": 25
+        "Price": 96.70,
+        "OrderedQuantity": 111,
+        "DeliveredQuantity": 11
       },
       {
         "ProductId": "3",
-        "Price": 133.19,
-        "OrderedQuantity": 115,
-        "DeliveredQuantity": 115
+        "Price": 114.67,
+        "OrderedQuantity": 71,
+        "DeliveredQuantity": 19
       },
       {
         "ProductId": "4",
-        "Price": 88.26,
-        "OrderedQuantity": 108,
-        "DeliveredQuantity": 108
+        "Price": 54.44,
+        "OrderedQuantity": 148,
+        "DeliveredQuantity": 99
       },
       {
         "ProductId": "5",
-        "Price": 48.22,
-        "OrderedQuantity": 87,
-        "DeliveredQuantity": 87
+        "Price": 116.50,
+        "OrderedQuantity": 135,
+        "DeliveredQuantity": 135
       }
     ]
   }

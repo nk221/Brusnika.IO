@@ -1,83 +1,74 @@
 [
   {
     "Id": "2",
-    "Name": "Практичный Бетонный Кошелек, организации. (255 упак)",
+    "Name": "Практичный Стальной Берет, нас вызывает. (359 л)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "Unit": "упак.",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   },
   {
     "Id": "1",
-    "Name": "Маленький Резиновый Кулон, качественно. (386 л)",
+    "Name": "Интеллектуальный Хлопковый Носки, занимаемых поэтапного оценить. (98 шт)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "Unit": "шт.",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   },
   {
     "Id": "3",
-    "Name": "Грубый Стальной Кулон, очевидна образом отметить. (443 г)",
+    "Name": "Грубый Резиновый Свитер, социально-экономическое. (439 упак)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "Unit": "упак.",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   },
   {
     "Id": "4",
-    "Name": "Эргономичный Меховой Кепка, активом. (91 упак)",
+    "Name": "Фантастический Пластиковый Ремень, широкому обществом. (216 г)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "Unit": "упак.",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   },
   {
     "Id": "5",
-    "Name": "Эргономичный Хлопковый Сабо, активом социально-ориентированный экономической. (470 л)",
+    "Name": "Маленький Кожанный Ремень, финансовых рост. (206 г)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "Unit": "шт.",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   },
   {
     "Id": "6",
-    "Name": "Фантастический Натуральный Ножницы, однако активности. (96 л)",
+    "Name": "Свободный Натуральный Автомобиль, сложившаяся влечёт актуальность. (261 шт)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "Unit": "шт.",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   },
   {
     "Id": "7",
-    "Name": "Невероятный Гранитный Компьютер, базы мира. (105 шт)",
+    "Name": "Потрясающий Резиновый Берет, обеспечивает степени позиции. (37 л)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
     "Unit": "шт.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   },
   {
     "Id": "8",
-    "Name": "Фантастический Пластиковый Стол, дальнейших обучения однако. (99 г)",
+    "Name": "Интеллектуальный Бетонный Портмоне, количественный специалистов высшего. (382 л)",
     "MinimumOrderQuantity": 1,
     "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
-    "IsDisabled": false
-  },
-  {
-    "Id": "9",
-    "Name": "Маленький Кожанный Свитер, занимаемых. (471 упак)",
-    "MinimumOrderQuantity": 1,
-    "OrderQuantityMultiplier": 1,
-    "Unit": "упак.",
-    "ImageUrl": "/static/images/thumbnails/17340026-53dd-46c6-a356-cc1616c7f62c.jpg",
+    "Unit": "шт.",
+    "ImageUrl": "/static/images/thumbnails/a40c0584-9aea-4a6f-9ed0-0b7a16e92729.jpg",
     "IsDisabled": false
   }
 ]

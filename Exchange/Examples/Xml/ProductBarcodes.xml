@@ -2,38 +2,34 @@
 <ArrayOfBarcode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Barcode>
     <ProductId>2</ProductId>
-    <Code>5787036071314</Code>
+    <Code>3388270604171</Code>
   </Barcode>
   <Barcode>
     <ProductId>1</ProductId>
-    <Code>6357607409762</Code>
+    <Code>4135467280835</Code>
   </Barcode>
   <Barcode>
     <ProductId>3</ProductId>
-    <Code>7935828919490</Code>
+    <Code>4379119006576</Code>
   </Barcode>
   <Barcode>
     <ProductId>4</ProductId>
-    <Code>1503924517443</Code>
+    <Code>1900597026577</Code>
   </Barcode>
   <Barcode>
     <ProductId>5</ProductId>
-    <Code>4349859253691</Code>
+    <Code>2822181265324</Code>
   </Barcode>
   <Barcode>
     <ProductId>6</ProductId>
-    <Code>5270529967305</Code>
+    <Code>5460967318122</Code>
   </Barcode>
   <Barcode>
     <ProductId>7</ProductId>
-    <Code>7692879713346</Code>
+    <Code>9946779641062</Code>
   </Barcode>
   <Barcode>
     <ProductId>8</ProductId>
-    <Code>1514603635969</Code>
-  </Barcode>
-  <Barcode>
-    <ProductId>9</ProductId>
-    <Code>1585560597300</Code>
+    <Code>3505053230666</Code>
   </Barcode>
 </ArrayOfBarcode>

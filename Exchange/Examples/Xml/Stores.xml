@@ -3,9 +3,13 @@
   <Store>
     <Id>м2</Id>
     <Name>Магазин №2</Name>
+    <Latitude>53.008204541638580</Latitude>
+    <Longitude>66.629284646655100</Longitude>
   </Store>
   <Store>
     <Id>м1</Id>
     <Name>Магазин №1</Name>
+    <Latitude>56.597825887891380</Latitude>
+    <Longitude>62.232120946157780</Longitude>
   </Store>
 </ArrayOfStore>

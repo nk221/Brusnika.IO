@@ -1,129 +1,129 @@
 <?xml version="1.0"?>
 <ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Order>
-    <Id>57e6c97c-d22d-4443-9b49-2b950a941998</Id>
+    <Id>525b6ad9-1d61-4ad5-aac0-929ea865edff</Id>
     <DocumentNumber>0</DocumentNumber>
-    <DocumentDate>2021-06-10T08:02:21.4120124Z</DocumentDate>
+    <DocumentDate>2021-06-11T06:14:40.4768597Z</DocumentDate>
     <Customer>
-      <Id>02f53005-13b4-4170-824b-d4a29ba1b839</Id>
-      <Name>Алевтина Авдеева</Name>
-      <Birthdate>1983-04-28T19:23:13.7242823+06:00</Birthdate>
-      <Email>Alevtina.Aveeva@ya.ru</Email>
-      <Phone>(963)974-91-59</Phone>
+      <Id>3d6e105a-954e-4b55-a780-63635ee47ff2</Id>
+      <Name>Ангелина Силина</Name>
+      <Birthdate>1969-06-08T15:26:25.0721687+06:00</Birthdate>
+      <Email>Angelina.Silina80@gmail.com</Email>
+      <Phone>(914)581-81-19</Phone>
     </Customer>
-    <StoreId>м1</StoreId>
+    <StoreId>м2</StoreId>
     <CustomerAddress>
-      <Id>5863268b-2979-4d7b-acfd-0456794eb98f</Id>
-      <PostCode>840168</PostCode>
+      <Id>8c45001a-946c-4829-ab78-54c961381270</Id>
+      <PostCode>290578</PostCode>
       <Country>Россия</Country>
-      <Region>Саратовская область</Region>
-      <Locality>Самара</Locality>
+      <Region>Липецкая область</Region>
+      <Locality>Ижевск</Locality>
       <SubLocality />
-      <Street>площадь Березовая</Street>
-      <Building>006</Building>
+      <Street>Западная пл.</Street>
+      <Building>619</Building>
       <Apartment>0</Apartment>
       <Floor>0</Floor>
       <Entrance>1</Entrance>
-      <Comment>Реализация показывает ресурсосберегающих показывает шагов.</Comment>
-      <Latitude>71.1725</Latitude>
-      <Longitude>111.9946</Longitude>
+      <Comment>Форм высокотехнологичная разнообразный степени с намеченных.</Comment>
+      <Latitude>-46.4388</Latitude>
+      <Longitude>48.1069</Longitude>
       <IsAcquiredByLocation>true</IsAcquiredByLocation>
       <IsAvailableForDelivery>true</IsAvailableForDelivery>
       <StoreId>м2</StoreId>
     </CustomerAddress>
-    <DeliveryDate>2021-06-11T00:00:00+05:00</DeliveryDate>
-    <StatusId>6</StatusId>
+    <DeliveryDate>2021-06-12T00:00:00+05:00</DeliveryDate>
+    <StatusId>40</StatusId>
     <StockOptionId>2</StockOptionId>
-    <PaymentTypeId>2</PaymentTypeId>
+    <PaymentTypeId>3</PaymentTypeId>
     <DeliveryTypeId>1</DeliveryTypeId>
-    <Comment>Обществом реализация же широким поставленных.</Comment>
-    <TotalOrdered>27765.77</TotalOrdered>
-    <TotalDelivered>25388.85</TotalDelivered>
-    <TotalPaid>0</TotalPaid>
+    <Comment>Нами а формирования плановых позиции высшего.</Comment>
+    <TotalOrdered>20346.86</TotalOrdered>
+    <TotalDelivered>16821.34</TotalDelivered>
+    <TotalPaid>16821.34</TotalPaid>
     <Items>
       <OrderItem>
         <ProductId>2</ProductId>
-        <Price>56.14</Price>
-        <OrderedQuantity>95</OrderedQuantity>
-        <DeliveredQuantity>89</DeliveredQuantity>
+        <Price>48.36</Price>
+        <OrderedQuantity>33</OrderedQuantity>
+        <DeliveredQuantity>13</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>1</ProductId>
-        <Price>20.16</Price>
-        <OrderedQuantity>65</OrderedQuantity>
-        <DeliveredQuantity>31</DeliveredQuantity>
+        <Price>51.15</Price>
+        <OrderedQuantity>132</OrderedQuantity>
+        <DeliveredQuantity>124</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>3</ProductId>
-        <Price>12.41</Price>
-        <OrderedQuantity>148</OrderedQuantity>
-        <DeliveredQuantity>148</DeliveredQuantity>
+        <Price>87.27</Price>
+        <OrderedQuantity>78</OrderedQuantity>
+        <DeliveredQuantity>78</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>4</ProductId>
-        <Price>48.38</Price>
-        <OrderedQuantity>38</OrderedQuantity>
-        <DeliveredQuantity>10</DeliveredQuantity>
+        <Price>16.41</Price>
+        <OrderedQuantity>76</OrderedQuantity>
+        <DeliveredQuantity>76</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>5</ProductId>
-        <Price>127.35</Price>
-        <OrderedQuantity>137</OrderedQuantity>
-        <DeliveredQuantity>137</DeliveredQuantity>
+        <Price>29.44</Price>
+        <OrderedQuantity>134</OrderedQuantity>
+        <DeliveredQuantity>61</DeliveredQuantity>
       </OrderItem>
     </Items>
   </Order>
   <Order>
-    <Id>d06f53e3-ed07-4b52-ade3-2e78d68d1f6c</Id>
+    <Id>e1ba3a8a-b998-47e7-b09a-211ceda63c16</Id>
     <DocumentNumber>0</DocumentNumber>
-    <DocumentDate>2021-06-10T08:02:21.4120124Z</DocumentDate>
+    <DocumentDate>2021-06-11T06:14:40.4768597Z</DocumentDate>
     <Customer>
-      <Id>02f53005-13b4-4170-824b-d4a29ba1b839</Id>
-      <Name>Алевтина Авдеева</Name>
-      <Birthdate>1983-04-28T19:23:13.7242823+06:00</Birthdate>
-      <Email>Alevtina.Aveeva@ya.ru</Email>
-      <Phone>(963)974-91-59</Phone>
+      <Id>3d6e105a-954e-4b55-a780-63635ee47ff2</Id>
+      <Name>Ангелина Силина</Name>
+      <Birthdate>1969-06-08T15:26:25.0721687+06:00</Birthdate>
+      <Email>Angelina.Silina80@gmail.com</Email>
+      <Phone>(914)581-81-19</Phone>
     </Customer>
-    <StoreId>м1</StoreId>
-    <DeliveryDate>2021-06-11T00:00:00+05:00</DeliveryDate>
-    <StatusId>4</StatusId>
+    <StoreId>м2</StoreId>
+    <DeliveryDate>2021-06-12T00:00:00+05:00</DeliveryDate>
+    <StatusId>80</StatusId>
     <StockOptionId>2</StockOptionId>
-    <PaymentTypeId>2</PaymentTypeId>
+    <PaymentTypeId>3</PaymentTypeId>
     <DeliveryTypeId>2</DeliveryTypeId>
-    <Comment>Демократической направлений равным общества консультация.</Comment>
-    <TotalOrdered>36655.52</TotalOrdered>
-    <TotalDelivered>35474.00</TotalDelivered>
+    <Comment>Общественной интересный общественной активизации.</Comment>
+    <TotalOrdered>44889.61</TotalOrdered>
+    <TotalDelivered>24359.49</TotalDelivered>
     <TotalPaid>0</TotalPaid>
     <Items>
       <OrderItem>
         <ProductId>2</ProductId>
-        <Price>31.11</Price>
-        <OrderedQuantity>88</OrderedQuantity>
-        <DeliveredQuantity>88</DeliveredQuantity>
+        <Price>131.16</Price>
+        <OrderedQuantity>17</OrderedQuantity>
+        <DeliveredQuantity>0</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>1</ProductId>
-        <Price>147.69</Price>
-        <OrderedQuantity>33</OrderedQuantity>
-        <DeliveredQuantity>25</DeliveredQuantity>
+        <Price>96.70</Price>
+        <OrderedQuantity>111</OrderedQuantity>
+        <DeliveredQuantity>11</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>3</ProductId>
-        <Price>133.19</Price>
-        <OrderedQuantity>115</OrderedQuantity>
-        <DeliveredQuantity>115</DeliveredQuantity>
+        <Price>114.67</Price>
+        <OrderedQuantity>71</OrderedQuantity>
+        <DeliveredQuantity>19</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>4</ProductId>
-        <Price>88.26</Price>
-        <OrderedQuantity>108</OrderedQuantity>
-        <DeliveredQuantity>108</DeliveredQuantity>
+        <Price>54.44</Price>
+        <OrderedQuantity>148</OrderedQuantity>
+        <DeliveredQuantity>99</DeliveredQuantity>
       </OrderItem>
       <OrderItem>
         <ProductId>5</ProductId>
-        <Price>48.22</Price>
-        <OrderedQuantity>87</OrderedQuantity>
-        <DeliveredQuantity>87</DeliveredQuantity>
+        <Price>116.50</Price>
+        <OrderedQuantity>135</OrderedQuantity>
+        <DeliveredQuantity>135</DeliveredQuantity>
       </OrderItem>
     </Items>
   </Order>

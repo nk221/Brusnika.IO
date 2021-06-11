@@ -6,7 +6,7 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>2</ProductId>
-    <ProductGroupId>0104</ProductGroupId>
+    <ProductGroupId>0103</ProductGroupId>
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>1</ProductId>
@@ -18,7 +18,7 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>3</ProductId>
-    <ProductGroupId>0104</ProductGroupId>
+    <ProductGroupId>0103</ProductGroupId>
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>3</ProductId>
@@ -34,7 +34,7 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>5</ProductId>
-    <ProductGroupId>0102</ProductGroupId>
+    <ProductGroupId>0103</ProductGroupId>
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>5</ProductId>
@@ -62,14 +62,6 @@
   </ProductGroupMembership>
   <ProductGroupMembership>
     <ProductId>8</ProductId>
-    <ProductGroupId>01</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>9</ProductId>
-    <ProductGroupId>0101</ProductGroupId>
-  </ProductGroupMembership>
-  <ProductGroupMembership>
-    <ProductId>9</ProductId>
     <ProductGroupId>01</ProductGroupId>
   </ProductGroupMembership>
 </ArrayOfProductGroupMembership>
